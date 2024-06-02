@@ -19,7 +19,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 718,332,Acer,549.0,WXGA,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,6,Notebook,Aspire E5-575
 518,617,Lenovo,4899.0,4K,Intel,Xeon E3-1535M,1 TB,0 GB,0 GB,0 GB,Medio,3.1,Windows 10,32,Notebook,Thinkpad P51
 1126,172,Acer,854.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Pesado,1.6,Windows 10,8,Notebook,Aspire A517-51G
-51,1097,Lenovo,646.27,Touch,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Windows 10,4,Convertible,Yoga Book
+51,1097,Lenovo,646.27,IPS,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Windows 10,4,Convertible,Yoga Book
 772,717,HP,655.01,FHD,AMD,A10-Series,0 GB,2 TB,0 GB,0 GB,Pesado,2.5,Windows 10,6,Notebook,17-ak002nv
 1001,814,HP,1389.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.6,Windows 10,8,Netbook,EliteBook 820
 330,202,HP,1379.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Omen 17-W295
@@ -31,7 +31,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 233,323,HP,980.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,ProBook 640
 205,166,Dell,728.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,Inspiron 3576
 361,309,Asus,1265.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,8,Gaming,GL553VE-FY082T
-1250,1276,Lenovo,895.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,0 TB,Medio,2.5,Windows 7,8,Notebook,B51-80
+1250,1276,Lenovo,895.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,1.0 TB,Medio,2.5,Windows 7,8,Notebook,B51-80
 707,910,Dell,614.0,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Vostro 3568
 884,919,Acer,359.0,FHD,Intel,Celeron Dual Core,0 GB,0 GB,16 GB,0 GB,Medio,1.5,Chrome OS,4,Notebook,Chromebook CB5-571-C1DZ
 1071,1258,Lenovo,597.57,FHD,AMD,A12-Series,256 GB,0 GB,0 GB,0 GB,Medio,3.6,Windows 10,6,Notebook,IdeaPad 320-15ABR
@@ -47,7 +47,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1214,341,HP,1268.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.6,Windows 10,8,Notebook,EliteBook 840
 1047,26,Dell,418.64,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Inspiron 3567
 648,882,Lenovo,479.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,No OS,4,Notebook,IdeaPad 110-15ISK
-34,7,Apple,2139.97,Touch,Intel,Core i7,0 GB,0 GB,256 GB,0 GB,Medio,2.2,Mac OS X,16,Ultrabook,MacBook Pro
+34,7,Apple,2139.97,IPS,Intel,Core i7,0 GB,0 GB,256 GB,0 GB,Medio,2.2,Mac OS X,16,Ultrabook,MacBook Pro
 804,1100,HP,1030.99,FHD,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 7,4,Notebook,EliteBook 840
 872,555,HP,397.0,FHD,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,250 G6
 1297,1166,HP,1579.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 7,8,Notebook,EliteBook 850
@@ -107,10 +107,10 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 799,242,Asus,575.0,FHD,AMD,A10-Series,128 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,X555QG-DM242T
 555,267,HP,722.0,FHD,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,1.6,Windows 10,4,Notebook,ProBook 450
 40,781,Toshiba,1020.0,WXGA,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,4,Notebook,Tecra A40-C-1E5
-1110,1289,Lenovo,1499.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
+1110,1289,Lenovo,1499.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
 998,375,HP,1750.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,Elitebook 1040
 500,1121,MSI,1511.19,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,8,Gaming,GE72 Apache
-734,644,Dell,1869.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13
+734,644,Dell,1869.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13
 974,484,Lenovo,1364.0,FHD,Intel,Core i5,180 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Thinkpad T470
 117,896,HP,1799.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,4,Convertible,EliteBook x360
 392,1030,HP,769.99,WXGA,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Notebook,ProBook 450
@@ -122,7 +122,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 9,165,Acer,805.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Pesado,1.6,Windows 10,4,Notebook,Aspire A517-51G
 1213,712,Lenovo,450.0,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.0,No OS,4,Notebook,V310-15ISK
 535,432,Dell,1159.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7577
-155,1206,Dell,1099.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.4,Linux,8,Ultrabook,XPS 13
+155,1206,Dell,1099.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.4,Linux,8,Ultrabook,XPS 13
 1074,561,HP,1280.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.7,Windows 10,8,Notebook,ProBook 470
 472,599,Dell,603.0,WXGA,Intel,Core M 7Y30,128 GB,0 GB,0 GB,0 GB,Ligero,1.0,Windows 10,4,Convertible,Inspiron 3179
 47,601,Lenovo,529.0,FHD,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Pesado,2.0,No OS,4,Notebook,V320-17ISK
@@ -141,14 +141,14 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 627,878,Lenovo,1950.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Convertible,ThinkPad Yoga
 1088,347,Lenovo,899.0,FHD,AMD,A12-Series,0 GB,2 TB,0 GB,0 GB,Medio,3.6,Windows 10,12,Notebook,IdeaPad 320-15ABR
 881,939,Dell,729.9,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 10,4,Notebook,Latitude 3580
-914,984,Dell,1899.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Windows 10,16,Convertible,XPS 13
+914,984,Dell,1899.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Windows 10,16,Convertible,XPS 13
 690,187,Toshiba,793.0,WXGA,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Satellite Pro
 111,478,HP,1154.0,FHD,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,ZBook 15u
 26,989,HP,979.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,Probook 450
 375,559,Dell,2699.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Alienware 17
 289,1213,HP,1327.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,12,Notebook,Pavilion Power
 1007,142,HP,699.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,4,Notebook,Envy 13-AD007nv
-476,1141,Lenovo,479.0,Touch,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Windows 10,4,Convertible,Yoga Book
+476,1141,Lenovo,479.0,IPS,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Windows 10,4,Convertible,Yoga Book
 475,64,Asus,941.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Notebook,UX410UA-GV350T
 125,410,Acer,879.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Linux,8,Notebook,Aspire 7
 1154,859,HP,1468.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Ultrabook,EliteBook 840
@@ -187,7 +187,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 45,414,Dell,1680.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.8,Windows 10,8,Ultrabook,Latitude 7480
 1262,245,Lenovo,589.0,WXGA,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.0,Windows 10,8,Notebook,IdeaPad 320-15ISK
 923,239,Acer,689.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,8,Convertible,Aspire R7
-879,1226,Acer,629.0,Touch,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,Aspire E5-774G
+879,1226,Acer,629.0,IPS,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,Aspire E5-774G
 931,1035,Toshiba,1590.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.3,Windows 10,8,Ultrabook,Portégé Z30-C-16K
 730,1222,Asus,1169.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.6,Windows 10,8,Gaming,FX502VM-DM105T
 55,430,Asus,597.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.4,Linux,8,Notebook,X542UQ-DM117
@@ -223,12 +223,12 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 622,270,Dell,799.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Pesado,1.6,Windows 10,8,Convertible,Inspiron 5579
 619,121,Asus,564.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,X705UV-BX074T
 631,794,MSI,1891.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,16,Gaming,GS43VR 7RE
-515,197,Lenovo,698.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Pesado,1.6,No OS,8,Notebook,IdeaPad 320-17IKBR
+515,197,Lenovo,698.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Pesado,1.6,No OS,8,Notebook,IdeaPad 320-17IKBR
 869,686,LG,2299.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,8,Ultrabook,Gram 15Z975
 1068,1161,HP,2229.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Pesado,2.6,Windows 7,8,Workstation,ZBook 15
 99,985,Dell,1962.98,QHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.6,Windows 10,8,Ultrabook,Latitude E7470
 795,130,Asus,277.99,WXGA,AMD,E-Series,64 GB,0 GB,0 GB,0 GB,Medio,1.5,Windows 10 S,4,Notebook,E402WA-GA007T
-408,1303,Lenovo,1499.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
+408,1303,Lenovo,1499.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
 634,501,Asus,1269.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,24,Gaming,Rog G752VL-UH71T
 489,6,Acer,400.0,WXGA,AMD,A9-Series,0 GB,500 GB,0 GB,0 GB,Medio,3.0,Windows 10,4,Notebook,Aspire 3
 544,358,MSI,1409.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,GP72MVR 7RFX
@@ -241,22 +241,22 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1174,823,Dell,789.81,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Vostro 3568
 566,611,Dell,465.0,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Linux,4,Notebook,Vostro 3568
 227,373,Lenovo,809.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,2.5,No OS,8,Gaming,Legion Y520-15IKBN
-967,1312,HP,549.99,FHD,AMD,A9-Series,0 GB,0 GB,0 GB,0 TB,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv
+967,1312,HP,549.99,FHD,AMD,A9-Series,0 GB,0 GB,0 GB,1.0 TB,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv
 423,836,Dell,585.0,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Latitude 3480
 1221,609,Acer,329.0,FHD,Intel,Celeron Quad Core,0 GB,0 GB,32 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,Aspire 1
-1116,936,HP,1149.0,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,Envy 13-AB077cl
+1116,936,HP,1149.0,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,Envy 13-AB077cl
 947,642,Asus,399.0,WXGA,Intel,Celeron Dual Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,Windows 10,8,Notebook,X541NA-GO414T
 178,728,Lenovo,1686.64,QHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad X1
 580,719,Dell,1089.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Linux,8,Notebook,Latitude 5480
 370,749,Dell,665.0,WXGA,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.0,Windows 10,8,Notebook,Vostro 3568
-291,83,Apple,1510.0,Touch,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,macOS,8,Ultrabook,"MacBook 12"""
+291,83,Apple,1510.0,IPS,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,macOS,8,Ultrabook,"MacBook 12"""
 652,143,Acer,655.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.7,Windows 10,4,Notebook,Aspire 5
 349,1175,Lenovo,2299.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.6,Windows 7,12,Ultrabook,ThinkPad T460s
-23,2,Apple,898.94,Touch,Intel,Core i5,0 GB,0 GB,128 GB,0 GB,Ligero,1.8,macOS,8,Ultrabook,Macbook Air
+23,2,Apple,898.94,IPS,Intel,Core i5,0 GB,0 GB,128 GB,0 GB,Ligero,1.8,macOS,8,Ultrabook,Macbook Air
 956,180,Acer,449.0,WXGA,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Aspire A315-51
-996,560,HP,544.15,Touch,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,17-X047na
+996,560,HP,544.15,IPS,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,17-X047na
 1296,932,Dell,1349.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7567
-482,1131,Lenovo,2749.99,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 TB,Pesado,2.7,Windows 10,16,Gaming,IdeaPad Y900-17ISK
+482,1131,Lenovo,2749.99,FHD,Intel,Core i7,256 GB,0 GB,0 GB,1.0 TB,Pesado,2.7,Windows 10,16,Gaming,IdeaPad Y900-17ISK
 650,677,Acer,412.0,WXGA,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.0,Linux,4,Notebook,Aspire 3
 624,616,Acer,349.0,WXGA,Intel,Pentium Quad Core,0 GB,0 GB,128 GB,0 GB,Medio,1.6,Windows 10,4,Notebook,Swift SF114-31-P5HY
 888,118,HP,1398.99,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Convertible,Spectre x360
@@ -274,7 +274,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 454,485,Dell,675.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,Inspiron 3576
 978,905,MSI,2649.0,4K,Intel,Core i7,512 GB,2 TB,0 GB,0 GB,Medio,2.6,Windows 10,16,Gaming,GS73VR Stealth
 581,587,Mediacom,389.0,FHD,Intel,Celeron Quad Core,32 GB,0 GB,0 GB,0 GB,Ligero,1.1,Windows 10,4,Notebook,SmartBook Edge
-1192,254,Apple,2040.0,Touch,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro
+1192,254,Apple,2040.0,IPS,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro
 1268,426,Lenovo,1215.38,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,1.8,Windows 10,8,Ultrabook,ThinkPad E480
 1160,646,Lenovo,1757.42,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Convertible,Thinkpad Yoga
 1040,881,Lenovo,1055.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,ThinkPad L570
@@ -288,8 +288,8 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 342,314,HP,469.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,250 G6
 426,585,MSI,2729.0,FHD,Intel,Core i7,512 GB,1 TB,0 GB,0 GB,Pesado,2.9,Windows 10,16,Gaming,GT73VR Titan
 753,716,Lenovo,1191.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,8,Notebook,Thinkpad T460p
-261,678,Microsoft,1867.85,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.8,Windows 10 S,8,Ultrabook,Surface Laptop
-395,803,Apple,1165.0,Touch,Intel,Core M 1,0 GB,0 GB,512 GB,0 GB,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12"""
+261,678,Microsoft,1867.85,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.8,Windows 10 S,8,Ultrabook,Surface Laptop
+395,803,Apple,1165.0,IPS,Intel,Core M 1,0 GB,0 GB,512 GB,0 GB,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12"""
 766,733,Lenovo,489.9,WXGA,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,No OS,4,Notebook,V310-15IKB
 209,1242,Dell,509.0,FHD,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Convertible,Inspiron 5578
 1138,1254,HP,2198.19,QHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 7,8,Ultrabook,EliteBook 840
@@ -300,7 +300,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 50,924,HP,3100.0,4K,Intel,Core M 6Y75,240 GB,0 GB,0 GB,0 GB,Ligero,1.2,Windows 10,8,Ultrabook,Elitebook Folio
 656,877,Toshiba,1095.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.3,Windows 10,8,Ultrabook,Portégé Z30-C-188
 606,1290,Lenovo,229.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,64 GB,0 GB,Medio,1.6,Windows 10,2,Notebook,IdeaPad 100S-14IBR
-503,1194,Lenovo,825.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,0 TB,Medio,2.5,Windows 7,4,Notebook,B51-80
+503,1194,Lenovo,825.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,1.0 TB,Medio,2.5,Windows 7,4,Notebook,B51-80
 1288,934,Dell,684.99,WXGA,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Vostro 3568
 1193,1316,Lenovo,638.0,FHD,Intel,Core i7,128 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Convertible,Yoga 500-14ISK
 188,656,Toshiba,1213.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.3,Windows 10,8,Notebook,Portege Z30-C-16J
@@ -326,7 +326,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 750,954,HP,1399.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Pesado,2.3,Windows 10,8,Gaming,Omen 17-W006na
 362,763,Asus,849.9,WXGA,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 10,4,Notebook,Pro P2540UA-XO0192R
 808,706,Toshiba,1877.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Ultrabook,Portege Z30T-C-133
-263,154,Dell,899.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,0 TB,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567
+263,154,Dell,899.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,1.0 TB,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567
 701,750,Toshiba,1535.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Notebook,Tecra X40-D-10G
 549,703,Acer,269.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.6,Windows 10,4,Netbook,TravelMate B117-M
 530,775,Asus,470.34,WXGA,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Pesado,1.1,Windows 10,4,Notebook,X751NV-TY001
@@ -348,7 +348,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1300,1111,Dell,638.8,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Inspiron 5567
 1190,366,HP,439.0,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,250 G6
 401,170,Acer,363.51,WXGA,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,Aspire 3
-427,1,Apple,1339.69,Touch,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro
+427,1,Apple,1339.69,IPS,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro
 990,1095,Lenovo,1399.0,QHD,Intel,Core M 6Y75,512 GB,0 GB,0 GB,0 GB,Ligero,1.2,Windows 10,8,Ultrabook,Yoga 900S-12ISK
 1043,822,Dell,961.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,Vostro 5568
 720,1031,Lenovo,2968.0,4K,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 7,16,Notebook,ThinkPad P70
@@ -369,7 +369,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 972,714,Acer,999.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,1.6,Windows 10,8,Convertible,Spin 5
 333,789,Dell,3588.8,FHD,Intel,Core i7,1 TB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,32,Gaming,Alienware 17
 1142,535,Dell,585.0,FHD,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Inspiron 3567
-934,875,Dell,2240.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Ultrabook,XPS 13
+934,875,Dell,2240.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Ultrabook,XPS 13
 520,265,Dell,1142.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,1.8,Windows 10,8,Notebook,Inspiron 5770
 1111,1059,HP,2103.34,FHD,Intel,Core i5,256 GB,500 GB,0 GB,0 GB,Medio,2.4,Windows 10,8,Notebook,EliteBook 850
 256,338,Asus,1334.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,UX510UX-CN269T
@@ -383,12 +383,12 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 377,636,Dell,1820.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,8,Notebook,XPS 15
 667,742,Lenovo,960.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Notebook,ThinkPad 13
 616,700,HP,1907.99,FHD,Intel,Core i7,0 GB,500 GB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Workstation,ZBook 17
-1103,771,Google,1559.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.2,Chrome OS,8,Ultrabook,Pixelbook
+1103,771,Google,1559.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.2,Chrome OS,8,Ultrabook,Pixelbook
 2,1013,HP,2089.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,EliteBook 840
 583,400,MSI,1349.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,Leopard GP72M
 1257,842,Lenovo,1186.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,8,Notebook,Thinkpad T460
 848,268,Dell,657.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Vostro 3568
-112,8,Apple,1158.7,Touch,Intel,Core i5,0 GB,0 GB,256 GB,0 GB,Ligero,1.8,macOS,8,Ultrabook,Macbook Air
+112,8,Apple,1158.7,IPS,Intel,Core i5,0 GB,0 GB,256 GB,0 GB,Ligero,1.8,macOS,8,Ultrabook,Macbook Air
 1013,52,Acer,841.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,1.8,Windows 10,8,Notebook,Aspire A515-51G
 1203,446,Asus,559.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Linux,4,Notebook,VivoBook Max
 1166,38,Dell,979.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Pesado,1.6,Windows 10,8,Notebook,Inspiron 5770
@@ -413,13 +413,13 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 296,682,HP,699.0,FHD,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Convertible,Pavilion X360
 1078,1262,HP,1099.99,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 7,4,Notebook,EliteBook 840
 577,1126,Dell,769.15,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 7,4,Notebook,Vostro 3559
-452,1129,Lenovo,549.0,Touch,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Android,4,Convertible,Yoga Book
+452,1129,Lenovo,549.0,IPS,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Android,4,Convertible,Yoga Book
 841,1049,HP,1349.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,EliteBook 820
 356,431,Dell,2799.0,QHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.9,Windows 10,16,Gaming,Alienware 17
 267,370,Lenovo,499.0,WXGA,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.0,No OS,8,Notebook,IdeaPad 320-15ISK
 425,1113,HP,500.0,WXGA,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,4,Notebook,250 G5
 465,964,HP,2249.0,FHD,Intel,Core i7,8 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 10,8,Workstation,ZBook Studio
-755,174,Huawei,1349.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,MateBook X
+755,174,Huawei,1349.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,MateBook X
 754,207,Lenovo,1749.0,FHD,Intel,Core i7,512 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Legion Y720-15IKB
 598,1023,HP,684.0,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Notebook,Probook 440
 48,228,HP,794.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,ProBook 450
@@ -438,7 +438,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 759,948,Toshiba,1105.0,FHD,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Ligero,2.3,Windows 10,4,Notebook,Tecra Z40-C-12X
 359,751,Lenovo,999.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Convertible,Flex 5
 493,445,Lenovo,2382.0,QHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,24,Ultrabook,ThinkPad T470s
-692,13,Apple,2439.97,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,macOS,16,Ultrabook,MacBook Pro
+692,13,Apple,2439.97,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,macOS,16,Ultrabook,MacBook Pro
 24,1174,MSI,1492.8,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,GP72M 7REX
 856,208,Dell,3055.0,4K,Intel,Xeon E3-1505M,256 GB,1 TB,0 GB,0 GB,Pesado,3.0,Windows 10,16,Workstation,Precision 7520
 704,1310,Dell,379.0,WXGA,Intel,Celeron Dual Core,0 GB,500 GB,0 GB,0 GB,Medio,1.6,Windows 10,2,Notebook,Inspiron 3552
@@ -447,7 +447,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 590,844,Dell,2774.63,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Alienware 15
 413,640,Lenovo,829.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,1.6,Windows 10,4,Notebook,V330-15IKB
 1157,99,Dell,485.0,FHD,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.0,Linux,4,Notebook,Inspiron 3567
-0,972,Dell,1268.0,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,XPS 13
+0,972,Dell,1268.0,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,XPS 13
 626,672,MSI,1486.77,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,GP72VR Leopard
 677,138,HP,988.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,1.8,Windows 10,8,Notebook,Probook 440
 637,73,Dell,955.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,8,Ultrabook,Inspiron 5370
@@ -466,9 +466,9 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1053,450,Lenovo,349.0,FHD,Intel,Pentium Quad Core,128 GB,0 GB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP
 669,807,Lenovo,1349.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Convertible,Yoga 910-13IKB
 402,1077,Dell,989.99,FHD,Intel,Core i7,0 GB,2 TB,0 GB,0 GB,Medio,2.7,Windows 10,16,Notebook,Inspiron 5567
-849,1211,Apple,1163.0,Touch,Intel,Core M 1,0 GB,0 GB,256 GB,0 GB,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12"""
-323,5,Apple,1803.6,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro
-615,1103,HP,615.0,Touch,Intel,Pentium Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.5,Chrome OS,4,Notebook,Chromebook 13
+849,1211,Apple,1163.0,IPS,Intel,Core M 1,0 GB,0 GB,256 GB,0 GB,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12"""
+323,5,Apple,1803.6,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro
+615,1103,HP,615.0,IPS,Intel,Pentium Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.5,Chrome OS,4,Notebook,Chromebook 13
 389,580,Lenovo,830.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Thinkpad E570
 1084,409,Lenovo,1144.5,FHD,Intel,Core i5,256 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,ThinkPad E580
 1261,317,MSI,2099.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,GE63VR 7RF
@@ -545,7 +545,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 985,100,Asus,577.0,FHD,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.4,Windows 10,6,Notebook,X541UV-DM1439T
 614,1196,MSI,2153.37,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Medio,2.6,Windows 10,16,Gaming,GS60 Ghost
 176,630,Fujitsu,799.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,LifeBook A557
-167,107,Microsoft,1340.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10 S,8,Ultrabook,Surface Laptop
+167,107,Microsoft,1340.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10 S,8,Ultrabook,Surface Laptop
 78,575,Lenovo,344.0,FHD,Intel,Pentium Quad Core,0 GB,500 GB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP
 1201,516,Lenovo,1149.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.8,No OS,8,Gaming,Legion Y520-15IKBN
 676,252,Asus,2999.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Pesado,2.9,Windows 10,16,Gaming,Rog G701VIK-BA060T
@@ -553,7 +553,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1220,1236,Lenovo,1272.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,8,Gaming,IdeaPad Y700-15ISK
 511,1314,HP,209.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.6,Windows 10,2,Netbook,Stream 11-Y000na
 1050,1270,Lenovo,569.0,FHD,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,6,Notebook,IdeaPad 310-15ISK
-574,16,Apple,1518.55,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro
+574,16,Apple,1518.55,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro
 1108,1114,Asus,2299.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,16,Gaming,G752VY-GC162T
 331,993,Asus,1749.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Rog GL753VE-DS74
 380,768,Acer,599.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Aspire 3
@@ -571,7 +571,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 523,112,Lenovo,1480.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,Thinkpad T470
 681,1170,Lenovo,599.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.3,No OS,8,Notebook,B51-80
 694,754,Samsung,1649.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,16,Ultrabook,Notebook 9
-728,15,Apple,1262.4,Touch,Intel,Core M m3,256 GB,0 GB,0 GB,0 GB,Ligero,1.2,macOS,8,Ultrabook,"MacBook 12"""
+728,15,Apple,1262.4,IPS,Intel,Core M m3,256 GB,0 GB,0 GB,0 GB,Ligero,1.2,macOS,8,Ultrabook,"MacBook 12"""
 932,30,HP,896.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,ProBook 470
 873,340,Asus,999.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,8,Gaming,FX553VD-FY647T
 144,199,HP,914.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,ProBook 470
@@ -579,14 +579,14 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 982,251,HP,559.0,WXGA,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,15-bs015dx
 341,533,Lenovo,799.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,4,Notebook,IdeaPad 320-15IKB
 311,276,Asus,1549.0,FHD,AMD,Ryzen 1700,256 GB,1 TB,0 GB,0 GB,Pesado,3.0,Windows 10,16,Gaming,Rog Strix
-953,852,HP,910.0,Touch,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,8,Notebook,ProBook 470
+953,852,HP,910.0,IPS,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,8,Notebook,ProBook 470
 232,671,HP,539.0,FHD,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,6,Notebook,15-ay047nv
 983,1006,Lenovo,270.62,WXGA,Intel,Celeron Dual Core,128 GB,0 GB,0 GB,0 GB,Medio,1.1,No OS,4,Notebook,V110-15IAP
-165,1090,Lenovo,659.0,Touch,Intel,Core i5,0 GB,0 TB,0 GB,0 GB,Pesado,2.3,Windows 10,8,Notebook,IdeaPad 300-17ISK
+165,1090,Lenovo,659.0,IPS,Intel,Core i5,0 GB,1.0 TB,0 GB,0 GB,Pesado,2.3,Windows 10,8,Notebook,IdeaPad 300-17ISK
 538,711,Lenovo,621.45,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,V310-15IKB
 1096,201,HP,959.0,FHD,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Notebook,ProBook 430
 449,271,Asus,1499.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,8,Convertible,ZenBook Flip
-1290,297,HP,489.0,Touch,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,17-BS037cl
+1290,297,HP,489.0,IPS,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Pesado,2.0,Windows 10,8,Notebook,17-BS037cl
 665,139,Lenovo,252.36,WXGA,Intel,Celeron Dual Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,No OS,4,Notebook,V110-15IAP
 693,182,Lenovo,813.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,V310-15IKB
 270,695,Dell,545.67,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Inspiron 3567
@@ -597,7 +597,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1075,1055,Vero,210.8,WXGA,Intel,Atom X5,0 GB,0 GB,32 GB,0 GB,Ligero,1.44,Windows 10,2,Notebook,V142
 498,1144,HP,1129.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Pesado,2.3,Windows 10,8,Gaming,Omen -
 135,513,Asus,1224.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,ZenBook UX510UX-CN211T
-1241,307,Lenovo,649.0,Touch,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,6,Notebook,IdeaPad 320-17IKB
+1241,307,Lenovo,649.0,IPS,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,6,Notebook,IdeaPad 320-17IKB
 67,945,HP,1579.0,FHD,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Ligero,2.3,Windows 10,4,Ultrabook,EliteBook 820
 964,562,Asus,224.0,WXGA,Intel,Celeron Dual Core,0 GB,500 GB,0 GB,0 GB,Medio,1.1,Linux,4,Notebook,A541NA-GO342
 39,374,Dell,899.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 10,8,Notebook,Inspiron 5567
@@ -629,7 +629,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 444,421,Asus,928.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Convertible,ZenBook Flip
 1149,505,Lenovo,949.0,FHD,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Ligero,2.4,Windows 10,8,Notebook,ThinkPad 13
 678,262,HP,1059.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,1.8,Windows 10,16,Notebook,Envy 17-U275cl
-271,1150,Lenovo,1099.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,0 TB,Medio,2.5,Windows 10,16,Notebook,IdeaPad 500-15ISK
+271,1150,Lenovo,1099.0,FHD,Intel,Core i7,0 GB,0 GB,0 GB,1.0 TB,Medio,2.5,Windows 10,16,Notebook,IdeaPad 500-15ISK
 607,746,MSI,2094.48,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,16,Gaming,GS63VR 7RF
 731,190,Dell,2397.0,4K,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,16,Notebook,XPS 15
 642,296,Asus,1187.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,FX753VD-GC071T
@@ -640,7 +640,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1301,674,Dell,955.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Latitude 3580
 344,1183,Dell,1498.0,4K,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567
 748,647,Dell,2399.0,4K,Intel,Core i7,1 TB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,16,Notebook,XPS 15
-786,466,HP,639.9,Touch,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.0,Windows 10,8,Notebook,17-BS092ND
+786,466,HP,639.9,IPS,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.0,Windows 10,8,Notebook,17-BS092ND
 163,1208,Lenovo,819.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Gaming,Legion Y520-15IKBN
 187,469,Asus,749.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Pro P2540UA-AB51
 550,1275,Dell,490.0,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.0,Windows 10,4,Notebook,Vostro 3568
@@ -674,7 +674,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 717,292,Asus,977.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Ultrabook,VivoBook S15
 595,1268,Dell,324.0,WXGA,Intel,Pentium Quad Core,0 GB,500 GB,0 GB,0 GB,Medio,1.6,Linux,4,Notebook,Inspiron 3552
 276,1259,Asus,1280.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,ZenBook UX310UA-WB71
-812,444,Google,2199.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Chrome OS,16,Ultrabook,Pixelbook
+812,444,Google,2199.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Chrome OS,16,Ultrabook,Pixelbook
 497,346,Dell,274.9,WXGA,Intel,Celeron Dual Core,0 GB,500 GB,0 GB,0 GB,Medio,1.6,Linux,4,Notebook,Inspiron 3552
 85,531,Dell,889.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Pesado,1.6,Linux,8,Notebook,Inspiron 5770
 557,81,HP,977.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,ProBook 470
@@ -690,7 +690,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 348,211,Dell,1949.0,4K,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,8,Ultrabook,XPS 13
 229,1045,Acer,409.0,WXGA,AMD,A9-Series,0 GB,1 TB,0 GB,0 GB,Medio,3.0,Windows 10,6,Notebook,Aspire 3
 168,713,Dell,795.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Vostro 5568
-74,4,Apple,2537.45,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.7,macOS,16,Ultrabook,MacBook Pro
+74,4,Apple,2537.45,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.7,macOS,16,Ultrabook,MacBook Pro
 405,1119,Lenovo,1199.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,16,Gaming,Legion Y520-15IKBN
 760,299,Lenovo,739.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,V330-15IKB
 941,183,HP,1499.0,4K,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Convertible,Spectre x360
@@ -705,8 +705,8 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1022,316,Dell,2499.0,4K,Intel,Core i7,1 TB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,16,Ultrabook,XPS 13
 629,288,Lenovo,579.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,6,Notebook,Ideapad 320-15IKBN
 433,769,Lenovo,1048.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,8,Gaming,Legion Y520-15IKBN
-1169,1317,Lenovo,1499.0,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
-741,1244,Dell,1477.0,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,XPS 13
+1169,1317,Lenovo,1499.0,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK
+741,1244,Dell,1477.0,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,XPS 13
 131,92,Asus,699.0,FHD,AMD,FX 9830,0 GB,1 TB,0 GB,0 GB,Medio,3.0,Windows 10,8,Gaming,FX550IK-DM018T
 1035,150,Asus,344.0,FHD,Intel,Celeron Dual Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,X541NA
 1130,980,Dell,825.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Latitude 5580
@@ -715,17 +715,17 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1058,976,Acer,1009.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,12,Notebook,Aspire F5-573G-510L
 1132,1305,HP,764.0,WXGA,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,6,Notebook,15-AC110nv
 335,1265,Asus,2325.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Medio,2.6,Windows 10,16,Gaming,Rog GL502VS
-847,326,Lenovo,589.0,Touch,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,4,Notebook,IdeaPad 320-17IKB
+847,326,Lenovo,589.0,IPS,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Pesado,2.5,Windows 10,4,Notebook,IdeaPad 320-17IKB
 999,391,Lenovo,2282.0,QHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,8,Ultrabook,Thinkpad X1
 1275,774,Acer,655.0,WXGA,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,4,Notebook,TravelMate P238-M
-1079,464,Microsoft,989.0,Touch,Intel,Core M m3,128 GB,0 GB,0 GB,0 GB,Ligero,2.2,Windows 10 S,4,Ultrabook,Surface Laptop
+1079,464,Microsoft,989.0,IPS,Intel,Core M m3,128 GB,0 GB,0 GB,0 GB,Ligero,2.2,Windows 10 S,4,Ultrabook,Surface Laptop
 3,891,HP,1700.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,4,Convertible,EliteBook x360
 107,944,Lenovo,309.0,WXGA,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP
 119,602,Lenovo,459.0,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.3,Windows 10,8,Notebook,IdeaPad 110-15ISK
 393,1180,HP,899.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,8,Gaming,Pavilion 15-cb003nv
 1120,1311,Lenovo,899.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,8,Notebook,IdeaPad Y700-15ISK
 58,185,Dell,1399.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13
-594,275,Apple,1958.9,Touch,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,2.9,macOS,8,Ultrabook,MacBook Pro
+594,275,Apple,1958.9,IPS,Intel,Core i5,512 GB,0 GB,0 GB,0 GB,Ligero,2.9,macOS,8,Ultrabook,MacBook Pro
 864,519,Dell,836.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Vostro 5568
 11,645,Lenovo,249.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.6,Windows 10,2,Notebook,IdeaPad 100S-14IBR
 274,1017,HP,779.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,Probook 440
@@ -767,7 +767,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1183,1273,Asus,339.0,WXGA,Intel,Celeron Dual Core,0 GB,1 TB,0 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,X541NA-GO020T
 103,1047,HP,1195.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 7,8,Notebook,Probook 640
 123,192,Acer,989.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.2,Windows 10,8,Ultrabook,Swift 7
-670,1024,Dell,949.0,FHD,Intel,Core i5,0 GB,0 GB,0 GB,0 TB,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7567
+670,1024,Dell,949.0,FHD,Intel,Core i5,0 GB,0 GB,0 GB,1.0 TB,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7567
 56,540,Mediacom,369.0,FHD,Intel,Celeron Quad Core,32 GB,0 GB,0 GB,0 GB,Ligero,1.1,Windows 10,4,Notebook,SmartBook Edge
 1119,998,Toshiba,915.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 10,4,Notebook,Tecra A40-C-1KF
 749,499,Asus,1350.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Medio,2.8,Windows 10,8,Gaming,VivoBook Pro
@@ -793,18 +793,18 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1025,545,HP,1799.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,12,Gaming,Omen 15-ce006nv
 1232,452,Dell,1179.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,8,Notebook,Latitude 5480
 368,1252,Apple,959.0,WXGA,Intel,Core i5,0 GB,0 GB,256 GB,0 GB,Ligero,1.6,Mac OS X,4,Ultrabook,MacBook Air
-1107,947,Lenovo,1799.0,Touch,Intel,Core i7,1 TB,0 GB,0 GB,0 GB,Ligero,2.2,Windows 10,16,Convertible,Yoga 900-13ISK
+1107,947,Lenovo,1799.0,IPS,Intel,Core i7,1 TB,0 GB,0 GB,0 GB,Ligero,2.2,Windows 10,16,Convertible,Yoga 900-13ISK
 1153,259,Acer,702.0,FHD,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Pesado,2.7,Windows 10,4,Notebook,Aspire 5
 859,31,Chuwi,244.99,FHD,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Medio,1.44,Windows 10,4,Notebook,"LapBook 15.6"""
 190,1115,Dell,1135.15,WXGA,Intel,Core i3,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 7,4,Ultrabook,Latitude E5270
 773,1224,HP,579.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,15-bs025nv
-876,772,Asus,1129.0,Touch,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,Zenbook UX330UA-AH5Q
+876,772,Asus,1129.0,IPS,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,Zenbook UX330UA-AH5Q
 118,817,Dell,1679.0,4K,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7567
 246,269,Dell,565.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,Inspiron 3567
 1069,631,HP,932.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,Windows 7,4,Notebook,EliteBook 850
 1219,667,Dell,3147.37,4K,Intel,Core i7,512 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,32,Gaming,Alienware 17
 1030,971,HP,775.0,WXGA,Intel,Pentium Quad Core,256 GB,0 GB,0 GB,0 GB,Ligero,1.1,Windows 10,4,Convertible,ProBook x360
-589,912,Dell,2013.1,Touch,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Windows 10,8,Convertible,XPS 13
+589,912,Dell,2013.1,IPS,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.3,Windows 10,8,Convertible,XPS 13
 1106,996,Lenovo,549.0,FHD,AMD,A12-Series,256 GB,0 GB,0 GB,0 GB,Medio,3.6,Windows 10,6,Notebook,IdeaPad 320-15ABR
 1283,615,Lenovo,1299.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.8,Windows 10,8,Convertible,Yoga 720-15IKB
 1269,825,Razer,1799.0,4K,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,16,Ultrabook,Blade Stealth
@@ -813,16 +813,16 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 124,1193,Asus,769.0,FHD,Intel,Core i3,256 GB,0 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Notebook,UX410UA-GV097T
 1198,1202,HP,799.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.6,Windows 10,6,Notebook,Pavilion 15-BC000nv
 204,54,HP,1103.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,1.8,Windows 10,8,Notebook,ProBook 430
-18,114,Dell,1379.0,Touch,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.4,Windows 10,8,Ultrabook,XPS 13
+18,114,Dell,1379.0,IPS,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.4,Windows 10,8,Ultrabook,XPS 13
 84,93,Acer,689.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,1.8,Windows 10,8,Notebook,Aspire 5
 874,394,Dell,2135.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Medio,2.7,Windows 10,8,Workstation,Precision 5520
 222,260,Dell,949.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,1.6,Windows 10,8,Ultrabook,Vostro 5370
-1158,564,Lenovo,949.0,Touch,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.7,Windows 10,6,Notebook,IdeaPad 320-17IKB
+1158,564,Lenovo,949.0,IPS,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.7,Windows 10,6,Notebook,IdeaPad 320-17IKB
 1145,1118,HP,2899.0,FHD,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 7,8,Workstation,ZBook 17
 1272,210,Dell,439.0,WXGA,Intel,Core i3,0 GB,1 TB,0 GB,0 GB,Medio,2.4,Windows 10,6,Notebook,Inspiron 3567
 1207,384,Asus,286.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,32 GB,0 GB,Medio,1.1,Windows 10,4,Notebook,VivoBook E403NA
-430,726,Mediacom,265.0,Touch,Intel,Atom Z8350,0 GB,32 GB,0 GB,0 GB,Ligero,1.92,Windows 10,4,Notebook,Smartbook 142
-1291,1228,Apple,1279.0,Touch,Intel,Core M 1,0 GB,0 GB,512 GB,0 GB,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12"""
+430,726,Mediacom,265.0,IPS,Intel,Atom Z8350,0 GB,32 GB,0 GB,0 GB,Ligero,1.92,Windows 10,4,Notebook,Smartbook 142
+1291,1228,Apple,1279.0,IPS,Intel,Core M 1,0 GB,0 GB,512 GB,0 GB,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12"""
 491,594,Lenovo,1673.0,FHD,Intel,Core i7,256 GB,0 GB,0 GB,0 GB,Ligero,2.6,Windows 10,12,Ultrabook,Thinkpad T460s
 623,816,HP,629.0,WXGA,AMD,A12-Series,0 GB,2 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,15-ba043na
 147,448,Dell,749.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,1.6,Windows 10,4,Notebook,Inspiron 5570
@@ -832,7 +832,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 1097,952,Dell,1639.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Ultrabook,Latitude 7480
 866,224,Dell,1279.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,1.8,Windows 10,16,Convertible,Inspiron 5379
 558,1189,HP,1159.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Medio,1.8,Windows 10,16,Notebook,ProBook 450
-1085,51,Lenovo,319.0,Touch,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Android,4,Convertible,Yoga Book
+1085,51,Lenovo,319.0,IPS,Intel,Atom x5,0 GB,0 GB,64 GB,0 GB,Ligero,1.44,Android,4,Convertible,Yoga Book
 1041,1186,HP,249.0,WXGA,Intel,Celeron Dual Core,0 GB,0 GB,32 GB,0 GB,Ligero,1.6,Windows 10,2,Notebook,Stream 14-AX000nv
 1277,571,Asus,839.0,FHD,Intel,Core i5,128 GB,1 TB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,FX553VD-DM627T
 1082,584,Lenovo,2663.0,FHD,Intel,Core i7,256 GB,1 TB,0 GB,0 GB,Pesado,2.7,Windows 10,32,Gaming,IdeaPad Y910-17ISK
@@ -871,7 +871,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 424,890,HP,839.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,ProBook 450
 740,1067,HP,979.0,WXGA,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,ProBook 450
 415,552,HP,705.5,FHD,Intel,Core i3,128 GB,0 GB,0 GB,0 GB,Medio,2.4,Windows 10,4,Notebook,ProBook 450
-116,955,Asus,530.0,Touch,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Pesado,1.6,Windows 10,4,Notebook,X751SV-TY001T
+116,955,Asus,530.0,IPS,Intel,Pentium Quad Core,0 GB,1 TB,0 GB,0 GB,Pesado,1.6,Windows 10,4,Notebook,X751SV-TY001T
 1009,869,Dell,649.0,FHD,Intel,Core i5,0 GB,1 TB,0 GB,0 GB,Medio,2.3,Windows 10,8,Notebook,Inspiron 5368
 79,776,Dell,1099.0,4K,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,16,Gaming,Inspiron 7559
 1234,1173,HP,478.89,FHD,AMD,A6-Series,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,4,Notebook,15-bw002nv
@@ -879,7 +879,7 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 247,1124,Asus,1339.0,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.6,Windows 10,16,Gaming,Rog GL552VW-CN470T
 1178,537,Dell,3012.77,FHD,Intel,Core i7,128 GB,1 TB,0 GB,0 GB,Pesado,2.8,Windows 10,16,Gaming,Alienware 17
 409,1212,Dell,1199.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Convertible,Inspiron 7378
-46,1096,Lenovo,3240.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 TB,Pesado,2.7,Windows 10,32,Gaming,IdeaPad Y900-17ISK
+46,1096,Lenovo,3240.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,1.0 TB,Pesado,2.7,Windows 10,32,Gaming,IdeaPad Y900-17ISK
 52,710,Lenovo,429.0,WXGA,AMD,A12-Series,0 GB,1 TB,0 GB,0 GB,Medio,3.6,Windows 10,8,Notebook,IdeaPad 320-15ABR
 855,512,Lenovo,949.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,Windows 10,8,Notebook,ThinkPad 13
 1273,1278,Lenovo,833.01,FHD,Intel,Core i5,128 GB,0 GB,0 GB,0 GB,Medio,2.3,Windows 10,4,Convertible,Yoga 500-14IBD
@@ -890,10 +890,10 @@ id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,SSD
 213,704,Lenovo,1749.0,FHD,Intel,Core i7,512 GB,0 GB,0 GB,0 GB,Ligero,2.7,Windows 10,16,Convertible,Yoga 910-13IKB
 339,460,Lenovo,1345.0,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Medio,2.5,Windows 10,8,Notebook,ThinkPad T470
 223,578,HP,389.0,WXGA,Intel,Pentium Quad Core,0 GB,2 TB,0 GB,0 GB,Medio,1.6,Windows 10,8,Notebook,14-am079na
-456,1084,Apple,1300.0,Touch,Intel,Core M 1,0 GB,0 GB,256 GB,0 GB,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12"""
+456,1084,Apple,1300.0,IPS,Intel,Core M 1,0 GB,0 GB,256 GB,0 GB,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12"""
 986,280,Dell,713.07,WXGA,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,2.7,Windows 10,12,Notebook,Inspiron 5567
 253,1191,Lenovo,398.0,WXGA,Intel,Core i5,0 GB,500 GB,0 GB,0 GB,Medio,2.3,No OS,4,Notebook,V110-15ISK
-4,1284,HP,549.99,FHD,AMD,A9-Series,0 GB,0 GB,0 GB,0 TB,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv
+4,1284,HP,549.99,FHD,AMD,A9-Series,0 GB,0 GB,0 GB,1.0 TB,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv
 1134,709,Lenovo,399.0,FHD,AMD,A9-Series,256 GB,0 GB,0 GB,0 GB,Medio,2.9,Windows 10,4,Notebook,IdeaPad 320-15AST
 1137,595,Lenovo,609.0,WXGA,Intel,Core i7,0 GB,1 TB,0 GB,0 GB,Medio,1.8,Windows 10,12,Notebook,Ideapad 320-15IKBR
 137,196,Xiaomi,999.9,FHD,Intel,Core i5,256 GB,0 GB,0 GB,0 GB,Ligero,2.5,No OS,8,Ultrabook,Mi Notebook

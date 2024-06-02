@@ -1,0 +1,913 @@
+id,laptop_ID,Company,Price_euros,Pantalla,Marca_Procesador,Modelo_Procesador,Categoria_Peso,Velocidad_Procesador_GHz,S.O,Ram_GB,Tipo_Portatil,Nombre_Producto,Total_Almacenamiento
+268,1002,Dell,749.0,WXGA,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Inspiron 5567,2048.0
+347,867,Asus,449.0,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,X541NA,2048.0
+353,966,Toshiba,1460.0,FHD,Intel,Core i5,Ligero,2.3,Windows 7,8,Notebook,Portege Z30-C-1CW,1024.0
+578,767,Dell,2868.99,4K,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Alienware 17,3072.0
+42,1241,Dell,1713.37,FHD,Intel,Core i5,Ligero,2.4,Windows 7,8,Ultrabook,Latitude E7270,1024.0
+867,376,Asus,1099.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,12,Convertible,ZenBook Flip,6144.0
+1136,60,Asus,415.0,FHD,Intel,Core i3,Medio,2.0,Linux,4,Notebook,X541UA-DM1897,1024.0
+609,1157,MSI,1142.8,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,GP62M 7RDX,2560.0
+474,110,Asus,1193.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,UX430UQ-GV209R,1024.0
+838,1263,Asus,1600.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Rog GL553VE-FY052T,3072.0
+851,1243,Asus,309.0,WXGA,Intel,Pentium Quad Core,Pesado,1.6,Windows 10,4,Notebook,X540SA-RBPDN09,2048.0
+904,79,Dell,855.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Inspiron 5570,2560.0
+355,957,Toshiba,1119.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Tecra A50-C-1ZV,1024.0
+44,579,HP,649.0,FHD,AMD,A9-Series,Medio,3.0,Windows 10,6,Notebook,15-cd005nv,1024.0
+36,834,Toshiba,499.0,WXGA,Intel,Pentium Dual Core,Medio,2.1,Windows 10,4,Notebook,Satellite Pro,512.0
+971,82,Dell,1096.16,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Ultrabook,Latitude 5590,1024.0
+938,159,Lenovo,629.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Convertible,Yoga 520-14IKB,1024.0
+718,332,Acer,549.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,6,Notebook,Aspire E5-575,2048.0
+518,617,Lenovo,4899.0,4K,Intel,Xeon E3-1535M,Medio,3.1,Windows 10,32,Notebook,Thinkpad P51,4096.0
+1126,172,Acer,854.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,8,Notebook,Aspire A517-51G,1024.0
+51,1097,Lenovo,646.27,IPS,Intel,Atom x5,Ligero,1.44,Windows 10,4,Convertible,Yoga Book,64.0
+772,717,HP,655.01,FHD,AMD,A10-Series,Pesado,2.5,Windows 10,6,Notebook,17-ak002nv,4096.0
+1001,814,HP,1389.0,WXGA,Intel,Core i5,Ligero,2.6,Windows 10,8,Netbook,EliteBook 820,1024.0
+330,202,HP,1379.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Omen 17-W295,3072.0
+66,405,Dell,2712.0,4K,Intel,Core i7,Medio,2.8,Windows 10,8,Workstation,Precision M5520,1024.0
+829,41,Asus,389.0,FHD,Intel,Core i3,Medio,2.0,Linux,4,Notebook,X540UA-DM186,2048.0
+1129,741,Acer,559.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Extensa EX2540-58KR,1000.0
+1197,983,Lenovo,695.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,6,Notebook,IdeaPad 310-15IKB,1024.0
+171,407,Lenovo,306.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP,2048.0
+233,323,HP,980.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ProBook 640,1024.0
+205,166,Dell,728.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 3576,1024.0
+361,309,Asus,1265.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,GL553VE-FY082T,2560.0
+1250,1276,Lenovo,895.0,FHD,Intel,Core i7,Medio,2.5,Windows 7,8,Notebook,B51-80,3072.0
+707,910,Dell,614.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Vostro 3568,2048.0
+884,919,Acer,359.0,FHD,Intel,Celeron Dual Core,Medio,1.5,Chrome OS,4,Notebook,Chromebook CB5-571-C1DZ,16.0
+1071,1258,Lenovo,597.57,FHD,AMD,A12-Series,Medio,3.6,Windows 10,6,Notebook,IdeaPad 320-15ABR,1024.0
+95,895,Dell,369.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,4,Notebook,Inspiron 3552,1000.0
+745,1190,Asus,369.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,X553SA-XX021T,1000.0
+899,37,Acer,367.0,WXGA,Intel,Core i3,Medio,2.7,Linux,4,Notebook,Aspire 3,2048.0
+313,333,Asus,1049.9,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Ultrabook,VivoBook S15,1024.0
+1063,933,MSI,1119.91,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Gaming,GL62M 7RD,2560.0
+193,1066,Dell,1094.0,FHD,Intel,Core i5,Medio,2.7,Windows 10,8,Convertible,Inspiron 5578,1024.0
+625,25,HP,659.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Ultrabook,15-BS101nv,1024.0
+142,429,HP,1427.0,FHD,Intel,Core i7,Medio,2.9,Windows 10,8,Notebook,ProBook 650,1024.0
+243,685,HP,495.0,WXGA,Intel,Celeron Dual Core,Ligero,1.1,Chrome OS,8,Convertible,Chromebook X360,64.0
+1214,341,HP,1268.0,FHD,Intel,Core i5,Ligero,2.6,Windows 10,8,Notebook,EliteBook 840,1024.0
+1047,26,Dell,418.64,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Inspiron 3567,2048.0
+648,882,Lenovo,479.0,FHD,Intel,Core i3,Medio,2.0,No OS,4,Notebook,IdeaPad 110-15ISK,2048.0
+34,7,Apple,2139.97,IPS,Intel,Core i7,Medio,2.2,Mac OS X,16,Ultrabook,MacBook Pro,256.0
+804,1100,HP,1030.99,FHD,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,EliteBook 840,1000.0
+872,555,HP,397.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,250 G6,1000.0
+1297,1166,HP,1579.0,FHD,Intel,Core i5,Medio,2.3,Windows 7,8,Notebook,EliteBook 850,1024.0
+192,720,Dell,726.0,FHD,Intel,Core i5,Medio,2.5,Linux,8,Notebook,Vostro 5568,2048.0
+451,443,HP,347.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,15-ra044nv,1000.0
+894,997,Fujitsu,649.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,LifeBook A556,1024.0
+961,1051,Toshiba,1725.0,FHD,Intel,Core i7,Ligero,2.6,Windows 10,8,Ultrabook,Tecra Z40-C-136,1024.0
+1168,762,Lenovo,1096.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Ultrabook,Thinkpad T460,720.0
+966,1238,Lenovo,1529.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,8,Notebook,Thinkpad T560,1024.0
+794,633,Mediacom,239.0,FHD,Intel,Atom x5,Ligero,1.44,Windows 10,2,Notebook,SmartBook 140,32.0
+763,417,Lenovo,1925.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Workstation,ThinkPad P51,2048.0
+946,109,Lenovo,414.9,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Ideapad 310-15ISK,2048.0
+1298,473,Acer,469.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Aspire 5,1000.0
+715,1147,Asus,278.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,L403NA-GA013TS,32.0
+762,212,Dell,1449.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,XPS 13,1024.0
+1101,795,MSI,1089.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Gaming,GL62M,2560.0
+994,1004,HP,1908.0,FHD,Intel,Core M 6Y75,Ligero,1.2,Windows 10,8,Netbook,EliteBook Folio,2048.0
+528,434,Dell,1099.0,FHD,Intel,Core i7,Medio,2.8,Linux,8,Ultrabook,Latitude 5480,1024.0
+926,1219,Lenovo,629.0,WXGA,Intel,Core i7,Medio,2.5,No OS,8,Notebook,IdeaPad 310-15ISK,1000.0
+791,1106,HP,345.99,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,250 G6,2048.0
+351,963,Acer,349.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Chrome OS,4,Notebook,Chromebook 14,32.0
+166,1052,Dell,1062.95,FHD,Intel,Core i5,Medio,2.4,Windows 7,8,Notebook,Latitude E5570,1024.0
+1196,168,Acer,348.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,Aspire A315-31,2048.0
+1056,320,Dell,844.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 5570,2560.0
+909,200,Razer,6099.0,4K,Intel,Core i7,Pesado,2.9,Windows 10,32,Gaming,Blade Pro,4096.0
+1189,681,Lenovo,349.0,WXGA,AMD,E-Series,Medio,2.2,Windows 10,4,Notebook,IdeaPad 320-15AST,512.0
+654,1092,MSI,2499.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GT72VR Dominator,3072.0
+968,670,Lenovo,535.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,IdeaPad 320-15ISK,1000.0
+1027,1164,HP,2296.95,FHD,Intel,Core i7,Ligero,2.5,Windows 7,8,Ultrabook,EliteBook 820,1024.0
+217,759,Lenovo,475.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,4,Netbook,N23,512.0
+1224,657,Lenovo,1584.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Thinkpad X270,1024.0
+559,189,Dell,1549.0,FHD,Intel,Core i7,Pesado,1.8,Windows 10,16,Notebook,Inspiron 7773,2048.0
+136,517,Dell,899.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,XPS 13,512.0
+420,198,Dell,839.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Convertible,Inspiron 5379,2048.0
+54,498,Toshiba,2799.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,32,Ultrabook,Portege X30-D-10L,2048.0
+788,127,Acer,451.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,Aspire 3,1024.0
+628,765,HP,1099.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,15-cb003na,2560.0
+1215,274,Lenovo,880.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,V330-15IKB,1024.0
+396,1168,Lenovo,339.0,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,V110-15ISK,2048.0
+1083,1320,Asus,369.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,X553SA-XX031T,1000.0
+20,858,HP,2277.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,EliteBook x360,1024.0
+1263,94,HP,1197.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,16,Notebook,Probook 430,2048.0
+258,908,Dell,929.0,FHD,Intel,Core i7,Pesado,2.8,Linux,8,Gaming,Inspiron 7567,2048.0
+159,950,Dell,558.6,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Vostro 3568,2048.0
+572,959,Lenovo,999.0,FHD,AMD,FX 8800,Medio,2.1,Windows 10,16,Gaming,IdeaPad Y700-15ACZ,4096.0
+374,538,Toshiba,860.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,1000.0
+25,1142,HP,1895.0,WXGA,Intel,Core i5,Ligero,2.4,Windows 7,8,Ultrabook,EliteBook 820,1024.0
+345,796,Lenovo,999.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,4,Gaming,Legion Y520-15IKBN,2048.0
+827,813,Dell,744.0,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Netbook,Latitude 3180,512.0
+661,525,HP,889.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Probook 450,1024.0
+102,603,Lenovo,2025.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,ThinkPad Yoga,2048.0
+185,596,Asus,1770.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,ROG Strix,2560.0
+69,233,Asus,891.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Notebook,K756UX-T4340T,2024.0
+327,169,MSI,1799.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GE63VR 7RE,3072.0
+439,899,Acer,297.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Netbook,Chromebook C731-C78G,32.0
+662,263,MSI,2499.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GT73EVR 7RE,4096.0
+799,242,Asus,575.0,FHD,AMD,A10-Series,Medio,2.5,Windows 10,4,Notebook,X555QG-DM242T,2560.0
+555,267,HP,722.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,ProBook 450,1000.0
+40,781,Toshiba,1020.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,Tecra A40-C-1E5,512.0
+1110,1289,Lenovo,1499.0,IPS,Intel,Core i7,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK,2048.0
+998,375,HP,1750.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Elitebook 1040,1024.0
+500,1121,MSI,1511.19,FHD,Intel,Core i7,Pesado,2.6,Windows 10,8,Gaming,GE72 Apache,2560.0
+734,644,Dell,1869.0,IPS,Intel,Core i5,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13,1024.0
+974,484,Lenovo,1364.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Thinkpad T470,720.0
+117,896,HP,1799.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Convertible,EliteBook x360,1024.0
+392,1030,HP,769.99,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,ProBook 450,1024.0
+1060,520,Dell,1219.24,FHD,Intel,Core i7,Medio,1.8,Windows 10,16,Notebook,Inspiron 5570,5120.0
+613,810,Asus,1099.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Pro P2540UA-XS51,1024.0
+711,119,HP,1084.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Probook 440,2048.0
+1245,1016,Dell,547.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Vostro 3568,512.0
+639,412,Asus,1873.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Zenbook 3,2048.0
+9,165,Acer,805.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,4,Notebook,Aspire A517-51G,1024.0
+1213,712,Lenovo,450.0,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,V310-15ISK,1000.0
+535,432,Dell,1159.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7577,2560.0
+155,1206,Dell,1099.0,IPS,Intel,Core i5,Ligero,2.4,Linux,8,Ultrabook,XPS 13,1024.0
+1074,561,HP,1280.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,8,Notebook,ProBook 470,2048.0
+472,599,Dell,603.0,WXGA,Intel,Core M 7Y30,Ligero,1.0,Windows 10,4,Convertible,Inspiron 3179,512.0
+47,601,Lenovo,529.0,FHD,Intel,Core i3,Pesado,2.0,No OS,4,Notebook,V320-17ISK,1000.0
+5,132,HP,928.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 470,1024.0
+466,1139,Asus,435.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,VivoBook Max,2048.0
+712,129,HP,812.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Probook 440,2048.0
+212,838,Acer,619.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,8,Notebook,Swift 3,512.0
+1067,3,HP,575.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Notebook,250 G6,1024.0
+785,371,HP,389.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,8,Notebook,15-AY023na,4096.0
+332,806,Dell,810.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Latitude 3580,512.0
+1199,625,MSI,2267.86,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GT62VR 7RE,3072.0
+412,298,Dell,1829.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Notebook,XPS 15,1024.0
+200,424,HP,1500.0,FHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,EliteBook 1040,1024.0
+509,337,Toshiba,943.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,1024.0
+411,1247,MSI,1149.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,GL62M 7RDX,2560.0
+627,878,Lenovo,1950.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,ThinkPad Yoga,1024.0
+1088,347,Lenovo,899.0,FHD,AMD,A12-Series,Medio,3.6,Windows 10,12,Notebook,IdeaPad 320-15ABR,4096.0
+881,939,Dell,729.9,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,Latitude 3580,1000.0
+914,984,Dell,1899.0,IPS,Intel,Core i7,Ligero,1.3,Windows 10,16,Convertible,XPS 13,2048.0
+690,187,Toshiba,793.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,512.0
+111,478,HP,1154.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ZBook 15u,1000.0
+26,989,HP,979.0,FHD,Intel,Core i5,Medio,2.7,Windows 10,8,Notebook,Probook 450,2560.0
+375,559,Dell,2699.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Alienware 17,3072.0
+289,1213,HP,1327.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,12,Notebook,Pavilion Power,2560.0
+1007,142,HP,699.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Notebook,Envy 13-AD007nv,1024.0
+476,1141,Lenovo,479.0,IPS,Intel,Atom x5,Ligero,1.44,Windows 10,4,Convertible,Yoga Book,64.0
+475,64,Asus,941.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Notebook,UX410UA-GV350T,1024.0
+125,410,Acer,879.0,FHD,Intel,Core i7,Medio,2.8,Linux,8,Notebook,Aspire 7,1024.0
+1154,859,HP,1468.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Ultrabook,EliteBook 840,2048.0
+1184,359,HP,1738.27,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Workstation,Zbook 15,1024.0
+322,574,Fujitsu,739.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Lifebook A557,2048.0
+280,885,Samsung,1849.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Ultrabook,Notebook 9,1024.0
+63,125,Lenovo,629.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Notebook,IdeaPad 320-15IKBN,1024.0
+547,862,Asus,1899.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Rog GL502VM-DS74,2560.0
+1293,322,Lenovo,459.9,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Notebook,ThinkPad 13,16.0
+536,241,Acer,390.0,WXGA,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Aspire A315-51,2048.0
+687,155,Lenovo,498.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,V110-15IKB,512.0
+1023,98,Dell,599.9,FHD,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Inspiron 3567,2048.0
+210,1123,HP,398.0,FHD,AMD,A6-Series,Medio,2.5,Windows 10,4,Notebook,15-bw011nv,2048.0
+657,588,Dell,1008.52,WXGA,Intel,Core i5,Medio,2.6,Windows 10,8,Notebook,Latitude 5580,1000.0
+671,388,Asus,1655.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,ROG Strix,2560.0
+194,1091,Lenovo,977.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,Ideapad 700-15ISK,2048.0
+672,325,HP,1292.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Notebook,Elitebook 840,1024.0
+1152,956,Acer,619.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,TravelMate P259-G2,1000.0
+201,156,MSI,1890.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GE73VR 7RE,3072.0
+792,76,Acer,389.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,Aspire E5-475,2048.0
+306,650,Lenovo,2450.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Ultrabook,ThinkPad X1,2048.0
+828,231,Dell,859.01,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Notebook,Inspiron 5567,2048.0
+1055,918,HP,1483.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Netbook,Elitebook 820,2048.0
+813,731,Dell,3659.4,4K,Intel,Core i7,Pesado,2.8,Windows 10,32,Gaming,Alienware 17,6144.0
+1000,420,Acer,789.01,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Convertible,Aspire R7,1024.0
+110,1000,HP,806.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Probook 450,2048.0
+399,453,Acer,441.8,WXGA,Intel,Core i5,Medio,2.5,Linux,4,Notebook,Aspire ES1-572,1000.0
+636,1192,Lenovo,709.0,FHD,Intel,Core i7,Medio,2.7,No OS,8,Notebook,IdeaPad 510-15IKB,2048.0
+1264,157,HP,1082.0,FHD,Intel,Core i5,Ligero,2.7,Windows 10,4,Ultrabook,EliteBook 840,1024.0
+318,167,Lenovo,1079.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Legion Y520-15IKBN,1024.0
+172,1237,Acer,1149.0,FHD,Intel,Core i7,Ligero,1.3,Windows 10,8,Convertible,SP714-51,1024.0
+293,289,Acer,951.0,FHD,Intel,Core i7,Pesado,1.8,Windows 10,8,Notebook,Aspire A517-51G,1024.0
+138,1146,Lenovo,2050.38,FHD,Intel,Core i7,Medio,2.6,Windows 7,8,Convertible,ThinkPad P40,2048.0
+747,1256,MSI,1169.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,8,Gaming,GL62 6QF,2560.0
+801,1064,Lenovo,2620.0,QHD,Intel,Core i7,Ligero,2.6,Windows 7,16,Notebook,ThinkPad X1,1024.0
+45,414,Dell,1680.0,FHD,Intel,Core i7,Ligero,2.8,Windows 10,8,Ultrabook,Latitude 7480,2048.0
+1262,245,Lenovo,589.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,IdeaPad 320-15ISK,512.0
+923,239,Acer,689.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Convertible,Aspire R7,1024.0
+879,1226,Acer,629.0,IPS,Intel,Core i3,Pesado,2.0,Windows 10,8,Notebook,Aspire E5-774G,2048.0
+931,1035,Toshiba,1590.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,8,Ultrabook,Portégé Z30-C-16K,1024.0
+730,1222,Asus,1169.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,8,Gaming,FX502VM-DM105T,2048.0
+55,430,Asus,597.0,FHD,Intel,Core i3,Medio,2.4,Linux,8,Notebook,X542UQ-DM117,2048.0
+373,1177,HP,2041.0,QHD,Intel,Core i7,Ligero,2.6,Windows 10,8,Convertible,Spectre Pro,2048.0
+603,925,Lenovo,789.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,6,Notebook,IdeaPad 510-15IKB,1024.0
+197,906,Toshiba,1475.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,Portege X30-D-10V,1024.0
+599,442,Asus,1695.0,FHD,AMD,Ryzen 1600,Pesado,3.2,Windows 10,8,Gaming,Rog Strix,3072.0
+1258,797,Acer,2299.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Predator G9-793,3072.0
+682,116,HP,722.0,WXGA,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,Probook 440,1000.0
+752,10,Acer,770.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Ultrabook,Swift 3,1024.0
+283,563,Mediacom,255.0,FHD,Intel,Atom x5,Ligero,1.44,Windows 10,4,Notebook,SmartBook 130,32.0
+1205,883,Toshiba,1388.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Tecra A50-D-11D,1024.0
+1237,1216,Acer,272.0,WXGA,Intel,Celeron Dual Core,Medio,2.0,Linux,4,Notebook,Aspire 3,2048.0
+28,994,Dell,1299.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,12,Convertible,Inspiron 7579,2048.0
+809,56,Dell,767.8,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Inspiron 3576,1024.0
+1274,565,HP,568.9,FHD,AMD,A10-Series,Medio,2.5,Windows 10,6,Notebook,15-bw007nv,512.0
+532,89,HP,598.99,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,250 G6,1024.0
+1167,1249,Razer,3499.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Blade Pro,4096.0
+942,506,Lenovo,911.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad L570,1024.0
+638,123,Acer,479.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,Spin 3,2048.0
+739,909,HP,900.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,ProBook 450,2048.0
+1181,235,Asus,398.99,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Pro P2540UA-XO0198T,2048.0
+109,1274,Asus,1900.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Rog G752VT-GC073T,2560.0
+1235,853,Dell,713.99,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 3568,512.0
+640,935,HP,1296.99,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Ultrabook,EliteBook 850,1024.0
+319,1266,Lenovo,573.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Notebook,V510-15IKB,1024.0
+1002,32,Asus,199.0,WXGA,AMD,E-Series,Medio,1.5,Windows 10,2,Notebook,E402WA-GA010T,32.0
+132,828,Dell,755.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,Latitude 3480,1000.0
+560,1286,HP,209.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,2,Netbook,Stream 11-Y000na,32.0
+601,689,Asus,419.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,L502NA-GO052T,512.0
+495,851,Dell,3072.89,FHD,Intel,Core i7,Pesado,2.8,Windows 10,32,Gaming,Alienware 17,4096.0
+839,1012,Asus,1799.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Rog GL553VE-DS74,3072.0
+622,270,Dell,799.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,8,Convertible,Inspiron 5579,1024.0
+619,121,Asus,564.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,X705UV-BX074T,2048.0
+631,794,MSI,1891.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GS43VR 7RE,3072.0
+515,197,Lenovo,698.0,IPS,Intel,Core i5,Pesado,1.6,No OS,8,Notebook,IdeaPad 320-17IKBR,1024.0
+869,686,LG,2299.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,Gram 15Z975,2048.0
+1068,1161,HP,2229.0,FHD,Intel,Core i7,Pesado,2.6,Windows 7,8,Workstation,ZBook 15,1024.0
+99,985,Dell,1962.98,QHD,Intel,Core i7,Medio,2.6,Windows 10,8,Ultrabook,Latitude E7470,1024.0
+795,130,Asus,277.99,WXGA,AMD,E-Series,Medio,1.5,Windows 10 S,4,Notebook,E402WA-GA007T,256.0
+408,1303,Lenovo,1499.0,IPS,Intel,Core i7,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK,2048.0
+634,501,Asus,1269.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,24,Gaming,Rog G752VL-UH71T,3072.0
+489,6,Acer,400.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,Aspire 3,1000.0
+544,358,MSI,1409.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,GP72MVR 7RFX,2560.0
+853,871,Lenovo,850.66,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad E570,2048.0
+15,843,Lenovo,1650.0,FHD,Intel,Core i5,Ligero,2.6,Windows 10,8,Notebook,ThinkPad T470s,1024.0
+485,914,Dell,1649.0,FHD,Intel,Core i7,Ligero,1.3,Windows 10,16,Convertible,XPS 13,1024.0
+290,472,Asus,304.0,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,X541NA-PD1003Y,1000.0
+860,399,Acer,693.99,WXGA,Intel,Core i5,Medio,1.6,Windows 10,12,Notebook,Aspire 5,2048.0
+1206,1041,HP,1060.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ProBook 640,1000.0
+1174,823,Dell,789.81,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 3568,1024.0
+566,611,Dell,465.0,WXGA,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Vostro 3568,2048.0
+227,373,Lenovo,809.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Gaming,Legion Y520-15IKBN,2560.0
+967,1312,HP,549.99,FHD,AMD,A9-Series,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv,3072.0
+423,836,Dell,585.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Latitude 3480,1000.0
+1221,609,Acer,329.0,FHD,Intel,Celeron Quad Core,Medio,1.1,Windows 10,4,Notebook,Aspire 1,32.0
+1116,936,HP,1149.0,IPS,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Envy 13-AB077cl,1024.0
+947,642,Asus,399.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,8,Notebook,X541NA-GO414T,2048.0
+178,728,Lenovo,1686.64,QHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad X1,2048.0
+580,719,Dell,1089.0,FHD,Intel,Core i5,Medio,2.8,Linux,8,Notebook,Latitude 5480,1024.0
+370,749,Dell,665.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,Vostro 3568,1024.0
+291,83,Apple,1510.0,IPS,Intel,Core i5,Ligero,1.3,macOS,8,Ultrabook,"MacBook 12""",2048.0
+652,143,Acer,655.0,FHD,Intel,Core i3,Pesado,2.7,Windows 10,4,Notebook,Aspire 5,2048.0
+349,1175,Lenovo,2299.0,FHD,Intel,Core i7,Ligero,2.6,Windows 7,12,Ultrabook,ThinkPad T460s,2048.0
+23,2,Apple,898.94,IPS,Intel,Core i5,Ligero,1.8,macOS,8,Ultrabook,Macbook Air,128.0
+956,180,Acer,449.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Aspire A315-51,512.0
+996,560,HP,544.15,IPS,Intel,Core i3,Pesado,2.0,Windows 10,8,Notebook,17-X047na,2048.0
+1296,932,Dell,1349.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7567,2560.0
+482,1131,Lenovo,2749.99,FHD,Intel,Core i7,Pesado,2.7,Windows 10,16,Gaming,IdeaPad Y900-17ISK,4096.0
+650,677,Acer,412.0,WXGA,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Aspire 3,512.0
+624,616,Acer,349.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,4,Notebook,Swift SF114-31-P5HY,128.0
+888,118,HP,1398.99,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Convertible,Spectre x360,1024.0
+488,753,Acer,330.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Chrome OS,2,Notebook,Chromebook 14,32.0
+1238,422,Dell,598.9,FHD,Intel,Core i5,Medio,2.5,Linux,4,Notebook,Inspiron 3567,1024.0
+154,668,Dell,1229.0,FHD,Intel,Core i5,Medio,2.4,Windows 10,8,Notebook,Latitude E7470,1024.0
+381,705,Asus,669.0,FHD,Intel,Core M M3,Ligero,0.9,Chrome OS,4,Convertible,Chromebook Flip,64.0
+512,915,Lenovo,2049.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,ThinkPad X1,256.0
+494,785,Lenovo,2370.0,4K,Intel,Core i7,Medio,2.7,Windows 7,16,Notebook,Thinkpad P50,2048.0
+742,1034,Dell,795.99,FHD,Intel,Core i3,Medio,2.3,Windows 10,4,Convertible,Inspiron 5568,2048.0
+61,372,Dell,1085.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,8,Notebook,Inspiron 5770,2560.0
+907,1038,Dell,1046.44,FHD,Intel,Core i5,Medio,2.4,Windows 10,8,Notebook,Latitude E5570,1000.0
+308,610,MSI,2199.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,16,Gaming,Laptop MSI,2560.0
+72,1306,Asus,369.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,X553SA-XX031T,1000.0
+454,485,Dell,675.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 3576,2048.0
+978,905,MSI,2649.0,4K,Intel,Core i7,Medio,2.6,Windows 10,16,Gaming,GS73VR Stealth,6144.0
+581,587,Mediacom,389.0,FHD,Intel,Celeron Quad Core,Ligero,1.1,Windows 10,4,Notebook,SmartBook Edge,128.0
+1192,254,Apple,2040.0,IPS,Intel,Core i5,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro,2048.0
+1268,426,Lenovo,1215.38,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Ultrabook,ThinkPad E480,1024.0
+1160,646,Lenovo,1757.42,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,Thinkpad Yoga,1024.0
+1040,881,Lenovo,1055.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ThinkPad L570,1000.0
+658,542,Dell,1369.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Notebook,Latitude 5580,1024.0
+1018,1122,Lenovo,867.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Convertible,Yoga 500-15ISK,1024.0
+531,351,Lenovo,1129.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Legion Y520-15IKBN,5120.0
+723,886,Dell,1690.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Ultrabook,Latitude 7280,1024.0
+1077,313,Lenovo,819.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,IdeaPad 320-15IKB,2560.0
+877,1307,Asus,729.0,FHD,Intel,Core M 6Y30,Ligero,0.9,Windows 10,8,Ultrabook,ZenBook UX305CA-UBM1,2048.0
+645,39,HP,488.69,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,250 G6,2048.0
+342,314,HP,469.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,250 G6,2048.0
+426,585,MSI,2729.0,FHD,Intel,Core i7,Pesado,2.9,Windows 10,16,Gaming,GT73VR Titan,4096.0
+753,716,Lenovo,1191.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Thinkpad T460p,1024.0
+261,678,Microsoft,1867.85,IPS,Intel,Core i7,Ligero,2.8,Windows 10 S,8,Ultrabook,Surface Laptop,1024.0
+395,803,Apple,1165.0,IPS,Intel,Core M M1,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12""",512.0
+766,733,Lenovo,489.9,WXGA,Intel,Core i5,Medio,2.5,No OS,4,Notebook,V310-15IKB,2048.0
+209,1242,Dell,509.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Convertible,Inspiron 5578,1000.0
+1138,1254,HP,2198.19,QHD,Intel,Core i7,Medio,2.5,Windows 7,8,Ultrabook,EliteBook 840,1024.0
+64,864,Lenovo,1903.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Ultrabook,ThinkPad T470p,1024.0
+1161,635,Asus,639.01,FHD,Intel,Core i5,Medio,2.5,Windows 10,6,Convertible,Q304UA-BHI5T11,2048.0
+366,1136,HP,1690.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,8,Notebook,Spectre Pro,1024.0
+92,1104,Acer,387.0,WXGA,AMD,A8-Series,Medio,2.2,Windows 10,4,Notebook,Aspire ES1-523,1000.0
+50,924,HP,3100.0,4K,Intel,Core M 6Y75,Ligero,1.2,Windows 10,8,Ultrabook,Elitebook Folio,960.0
+656,877,Toshiba,1095.0,WXGA,Intel,Core i5,Ligero,2.3,Windows 10,8,Ultrabook,Portégé Z30-C-188,1024.0
+606,1290,Lenovo,229.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,2,Notebook,IdeaPad 100S-14IBR,64.0
+503,1194,Lenovo,825.0,FHD,Intel,Core i7,Medio,2.5,Windows 7,4,Notebook,B51-80,3072.0
+1288,934,Dell,684.99,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Vostro 3568,2048.0
+1193,1316,Lenovo,638.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,4,Convertible,Yoga 500-14ISK,512.0
+188,656,Toshiba,1213.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,8,Notebook,Portege Z30-C-16J,1024.0
+945,970,Dell,1899.0,FHD,Intel,Core i5,Ligero,1.2,Windows 10,8,Convertible,XPS 13,1024.0
+1024,68,HP,438.69,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,250 G6,1000.0
+53,691,HP,699.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,17-bs000nv I3,1024.0
+981,632,Lenovo,899.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,IdeaPad 320-15IKB,2048.0
+1282,1246,Lenovo,1029.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,IdeaPad Y700-15ISK,2560.0
+721,1240,HP,529.0,FHD,AMD,A12-Series,Medio,2.7,Windows 10,6,Notebook,15-bw009nv,2048.0
+441,1245,Dell,521.86,WXGA,Intel,Core i5,Medio,2.5,Linux,4,Notebook,Vostro 3568,2048.0
+1222,106,HP,1119.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Envy 13-ad009n,1024.0
+992,1165,Dell,1009.9,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Vostro 5568,1024.0
+1271,319,Asus,275.0,WXGA,Intel,Celeron Dual Core,Ligero,1.1,Windows 10,2,Convertible,VivoBook Flip,32.0
+546,1292,Asus,369.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,X553SA-XX031T,1000.0
+541,1060,HP,1469.0,FHD,Intel,Core i5,Ligero,2.3,Windows 7,8,Notebook,EliteBook 1040,1024.0
+915,655,Razer,2599.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Blade Pro,1024.0
+543,938,Lenovo,1825.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,ThinkPad Yoga,2048.0
+139,523,HP,521.47,WXGA,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,15-bs190od,2048.0
+929,1285,Dell,805.99,WXGA,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Inspiron 3567,2048.0
+565,1145,HP,629.0,WXGA,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,15-bs078cl,4096.0
+300,213,Lenovo,597.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,IdeaPad 320-15IKBN,1024.0
+960,860,HP,299.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,No OS,4,Notebook,250 G6,512.0
+750,954,HP,1399.0,FHD,Intel,Core i5,Pesado,2.3,Windows 10,8,Gaming,Omen 17-W006na,2560.0
+362,763,Asus,849.9,WXGA,Intel,Core i7,Medio,2.7,Windows 10,4,Notebook,Pro P2540UA-XO0192R,1024.0
+808,706,Toshiba,1877.0,FHD,Intel,Core i7,Ligero,2.5,Windows 10,16,Ultrabook,Portege Z30T-C-133,2048.0
+263,154,Dell,899.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567,3072.0
+701,750,Toshiba,1535.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,Tecra X40-D-10G,1024.0
+549,703,Acer,269.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,4,Netbook,TravelMate B117-M,32.0
+530,775,Asus,470.34,WXGA,Intel,Pentium Quad Core,Pesado,1.1,Windows 10,4,Notebook,X751NV-TY001,2048.0
+1010,723,Lenovo,857.07,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Thinkpad E470,1024.0
+382,191,Lenovo,779.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Gaming,Legion Y520-15IKBN,1024.0
+80,1172,Dell,2250.68,4K,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,XPS 15,1024.0
+939,798,Dell,985.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7567,1024.0
+789,1037,HP,1185.43,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,ProBook 440,1024.0
+1239,1057,Lenovo,1049.6,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Thinkpad L560,1024.0
+871,357,HP,1304.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Elitebook 850,1024.0
+218,1025,HP,1539.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Ultrabook,EliteBook 820,1000.0
+1182,29,Dell,1298.0,FHD,Intel,Core i7,Medio,1.9,Windows 10,8,Ultrabook,Latitude 5590,1024.0
+928,508,HP,618.99,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,15-BS026nv,1024.0
+722,1181,Lenovo,459.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,IdeaPad 310-15ISK,2048.0
+126,105,Dell,647.0,FHD,Intel,Core i5,Medio,1.6,Linux,8,Notebook,Inspiron 3576,2048.0
+486,395,Lenovo,2509.0,QHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Convertible,ThinkPad X1,2048.0
+1230,312,Toshiba,1043.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,1024.0
+823,345,Dell,1142.75,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 7570,1024.0
+1300,1111,Dell,638.8,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Inspiron 5567,2048.0
+1190,366,HP,439.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,250 G6,1000.0
+401,170,Acer,363.51,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,Aspire 3,2048.0
+427,1,Apple,1339.69,IPS,Intel,Core i5,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro,512.0
+990,1095,Lenovo,1399.0,QHD,Intel,Core M 6Y75,Ligero,1.2,Windows 10,8,Ultrabook,Yoga 900S-12ISK,2048.0
+1043,822,Dell,961.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Vostro 5568,2048.0
+720,1031,Lenovo,2968.0,4K,Intel,Core i7,Medio,2.7,Windows 7,16,Notebook,ThinkPad P70,2048.0
+973,301,Acer,979.0,FHD,Intel,Core i7,Medio,2.8,Linux,8,Notebook,Aspire A715-71G,1024.0
+191,511,Lenovo,265.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Netbook,Chromebook N23,64.0
+96,593,HP,1498.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Omen 17-AN010nv,3072.0
+1233,294,Lenovo,659.01,FHD,Intel,Core i7,Medio,2.7,No OS,8,Notebook,IdeaPad 320-15IKB,2048.0
+526,800,Vero,202.9,FHD,Intel,Celeron Dual Core,Ligero,1.1,Windows 10,4,Notebook,K146,32.0
+1122,527,Lenovo,1399.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Legion Y720-15IKB,3072.0
+325,662,HP,364.9,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,250 G6,1000.0
+315,1283,Lenovo,899.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,8,Notebook,IdeaPad Y700-15ISK,2048.0
+554,624,HP,1389.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Ultrabook,EliteBook 850,2048.0
+902,1155,HP,2171.72,FHD,Intel,Core i7,Medio,2.5,Windows 7,8,Ultrabook,EliteBook 850,1024.0
+890,425,Dell,539.95,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Inspiron 3567,2048.0
+697,449,Lenovo,1429.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad X270,1024.0
+709,1227,Asus,2449.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Rog Strix,3072.0
+130,683,MSI,1294.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GP62 7RDX,3072.0
+972,714,Acer,999.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Convertible,Spin 5,1024.0
+333,789,Dell,3588.8,FHD,Intel,Core i7,Pesado,2.8,Windows 10,32,Gaming,Alienware 17,6144.0
+1142,535,Dell,585.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Inspiron 3567,1000.0
+934,875,Dell,2240.0,IPS,Intel,Core i7,Ligero,2.5,Windows 10,16,Ultrabook,XPS 13,2048.0
+520,265,Dell,1142.0,FHD,Intel,Core i7,Pesado,1.8,Windows 10,8,Notebook,Inspiron 5770,2560.0
+1111,1059,HP,2103.34,FHD,Intel,Core i5,Medio,2.4,Windows 10,8,Notebook,EliteBook 850,2024.0
+256,338,Asus,1334.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,UX510UX-CN269T,3072.0
+156,605,Dell,1670.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,Latitude 5289,1024.0
+305,279,Toshiba,812.0,WXGA,Intel,Core i7,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,1000.0
+169,1117,Acer,209.0,WXGA,Intel,Celeron Dual Core,Medio,1.5,Chrome OS,4,Notebook,Chromebook 15,64.0
+1254,969,Dell,3154.0,4K,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Alienware 17,4096.0
+1191,586,Dell,749.01,FHD,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Inspiron 3567,1024.0
+437,255,Dell,819.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Convertible,Inspiron 5579,2048.0
+1177,1156,Lenovo,2440.0,QHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Convertible,ThinkPad X1,2048.0
+377,636,Dell,1820.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Notebook,XPS 15,1024.0
+667,742,Lenovo,960.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,ThinkPad 13,1024.0
+616,700,HP,1907.99,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Workstation,ZBook 17,1000.0
+1103,771,Google,1559.0,IPS,Intel,Core i5,Ligero,1.2,Chrome OS,8,Ultrabook,Pixelbook,1024.0
+2,1013,HP,2089.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,EliteBook 840,2048.0
+583,400,MSI,1349.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Leopard GP72M,1024.0
+1257,842,Lenovo,1186.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Thinkpad T460,1024.0
+848,268,Dell,657.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Vostro 3568,2048.0
+112,8,Apple,1158.7,IPS,Intel,Core i5,Ligero,1.8,macOS,8,Ultrabook,Macbook Air,256.0
+1013,52,Acer,841.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Aspire A515-51G,1024.0
+1203,446,Asus,559.0,FHD,Intel,Core i5,Medio,2.5,Linux,4,Notebook,VivoBook Max,1024.0
+1166,38,Dell,979.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,8,Notebook,Inspiron 5770,2560.0
+435,194,Lenovo,2824.0,QHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Convertible,Thinkpad Yoga,4096.0
+633,721,Asus,298.0,FHD,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,VivoBook E403NA,32.0
+43,369,HP,639.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,250 G6,2048.0
+825,873,Toshiba,1285.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Notebook,Portege X30-D-10X,512.0
+329,306,Asus,2122.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Rog GL702VS-GC095T,3072.0
+602,1184,Lenovo,1390.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad T570,1024.0
+878,502,Lenovo,1099.0,WXGA,Intel,Core i5,Ligero,2.3,Windows 10,8,Ultrabook,Thinkpad X260,720.0
+70,570,Lenovo,2999.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Notebook,Thinkpad P71,1024.0
+770,87,Dell,1349.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7577,2560.0
+965,1200,Dell,895.01,FHD,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Vostro 5568,1024.0
+570,698,Acer,375.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Notebook,Chromebook 14,32.0
+282,1304,Lenovo,229.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,2,Notebook,IdeaPad 100S-14IBR,64.0
+7,234,HP,1269.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,ZBook 15u,2048.0
+120,148,Asus,1099.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,ZenBook UX430UA,1024.0
+189,90,Asus,1449.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,FX503VM-E4007T,2560.0
+301,9,Asus,1495.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,16,Ultrabook,ZenBook UX430UN,2048.0
+490,11,HP,393.9,WXGA,Intel,Core i5,Medio,2.5,No OS,4,Notebook,250 G6,1000.0
+913,1299,Dell,805.99,WXGA,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Inspiron 3567,2048.0
+296,682,HP,699.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Convertible,Pavilion X360,512.0
+1078,1262,HP,1099.99,FHD,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,EliteBook 840,1024.0
+577,1126,Dell,769.15,WXGA,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,Vostro 3559,1000.0
+452,1129,Lenovo,549.0,IPS,Intel,Atom x5,Ligero,1.44,Android,4,Convertible,Yoga Book,64.0
+841,1049,HP,1349.0,FHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,EliteBook 820,1024.0
+356,431,Dell,2799.0,QHD,Intel,Core i7,Pesado,2.9,Windows 10,16,Gaming,Alienware 17,3072.0
+267,370,Lenovo,499.0,WXGA,Intel,Core i3,Medio,2.0,No OS,8,Notebook,IdeaPad 320-15ISK,1024.0
+425,1113,HP,500.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,4,Notebook,250 G5,2048.0
+465,964,HP,2249.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Workstation,ZBook Studio,32.0
+755,174,Huawei,1349.0,IPS,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,MateBook X,1024.0
+754,207,Lenovo,1749.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Legion Y720-15IKB,4096.0
+598,1023,HP,684.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Probook 440,1000.0
+48,228,HP,794.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 450,2048.0
+434,786,Acer,636.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Swift 3,512.0
+328,613,Toshiba,1399.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Notebook,Tecra Z50-C-144,1024.0
+1051,437,Samsung,269.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Netbook,Chromebook 3,16.0
+248,163,Toshiba,447.0,WXGA,Intel,Core i3,Medio,2.2,Windows 10,4,Notebook,Satellite Pro,1000.0
+100,1003,Dell,1119.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Latitude 5480,512.0
+575,1214,Lenovo,368.0,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,V110-15ISK,2048.0
+561,225,Dell,677.35,FHD,Intel,Core i5,Medio,1.6,Linux,8,Notebook,Inspiron 3576,1024.0
+814,1007,Lenovo,1349.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,ThinkPad T560,1024.0
+1028,63,Lenovo,599.0,FHD,Intel,Core i3,Medio,2.7,No OS,8,Notebook,IdeaPad 520S-14IKB,1024.0
+453,1001,Lenovo,1189.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,Legion Y520-15IKBN,2560.0
+68,619,Dell,443.9,WXGA,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Vostro 3568,2048.0
+729,363,Dell,999.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7577,2048.0
+759,948,Toshiba,1105.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,4,Notebook,Tecra Z40-C-12X,512.0
+359,751,Lenovo,999.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Convertible,Flex 5,1024.0
+493,445,Lenovo,2382.0,QHD,Intel,Core i7,Ligero,2.7,Windows 10,24,Ultrabook,ThinkPad T470s,2048.0
+692,13,Apple,2439.97,IPS,Intel,Core i7,Medio,2.8,macOS,16,Ultrabook,MacBook Pro,1024.0
+24,1174,MSI,1492.8,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GP72M 7REX,3072.0
+856,208,Dell,3055.0,4K,Intel,Xeon E3-1505M,Pesado,3.0,Windows 10,16,Workstation,Precision 7520,3072.0
+704,1310,Dell,379.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,2,Notebook,Inspiron 3552,1000.0
+1171,1093,Lenovo,540.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,V110-15ISK,1000.0
+354,216,Asus,1407.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,ROG GL703VD-GC028T,3072.0
+590,844,Dell,2774.63,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Alienware 15,3072.0
+413,640,Lenovo,829.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,V330-15IKB,1024.0
+1157,99,Dell,485.0,FHD,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Inspiron 3567,1024.0
+0,972,Dell,1268.0,IPS,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,XPS 13,1024.0
+626,672,MSI,1486.77,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,GP72VR Leopard,2560.0
+677,138,HP,988.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Probook 440,1024.0
+637,73,Dell,955.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,Inspiron 5370,1024.0
+1211,1069,HP,705.15,WXGA,Intel,Core i3,Medio,2.3,Windows 10,4,Notebook,ProBook 650,1000.0
+245,454,Dell,1993.0,FHD,Intel,Xeon E3-1505M,Medio,3.0,Windows 10,8,Workstation,Precision 3520,2112.0
+1094,1302,Lenovo,638.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,4,Convertible,Yoga 500-14ISK,512.0
+388,494,Dell,1899.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Notebook,XPS 15,2048.0
+1280,249,Lenovo,1079.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,Yoga 910-13IKB,1024.0
+593,514,Acer,613.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,Aspire A515-51G-59QF,2048.0
+352,48,Asus,1299.0,FHD,AMD,Ryzen 1700,Pesado,3.0,Windows 10,8,Gaming,Rog Strix,3072.0
+955,14,Dell,498.9,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Inspiron 3567,1024.0
+713,404,Lenovo,938.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad L470,1024.0
+379,348,HP,716.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,8,Notebook,ProBook 450,2048.0
+16,589,HP,719.0,FHD,Intel,Core i3,Ligero,2.4,Windows 10,4,Notebook,ProBook 430,512.0
+1005,1048,HP,1228.99,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Notebook,EliteBook 850,1024.0
+1053,450,Lenovo,349.0,FHD,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP,512.0
+669,807,Lenovo,1349.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,Yoga 910-13IKB,1024.0
+402,1077,Dell,989.99,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Notebook,Inspiron 5567,4096.0
+849,1211,Apple,1163.0,IPS,Intel,Core M M1,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12""",256.0
+323,5,Apple,1803.6,IPS,Intel,Core i5,Ligero,3.1,macOS,8,Ultrabook,MacBook Pro,1024.0
+615,1103,HP,615.0,IPS,Intel,Pentium Dual Core,Ligero,1.5,Chrome OS,4,Notebook,Chromebook 13,32.0
+389,580,Lenovo,830.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Thinkpad E570,1024.0
+1084,409,Lenovo,1144.5,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ThinkPad E580,3072.0
+1261,317,MSI,2099.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GE63VR 7RF,3072.0
+562,863,Dell,865.0,FHD,Intel,Core i7,Pesado,2.7,Linux,8,Notebook,Inspiron 5767,2048.0
+768,392,Lenovo,549.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Ideapad 510S-13IKB,512.0
+164,349,Lenovo,2099.0,4K,Intel,Core i7,Ligero,1.8,Windows 10,16,Convertible,Yoga 920-13IKB,2048.0
+525,847,Lenovo,325.0,WXGA,Intel,Celeron Quad Core,Medio,1.6,Chrome OS,4,Notebook,N42-20 Chromebook,16.0
+134,42,Dell,1499.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7577,3072.0
+743,541,Asus,1649.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Gaming,ROG Strix,2560.0
+821,557,Lenovo,499.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,IdeaPad 320-15ISK,512.0
+836,937,Toshiba,1975.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,16,Notebook,Tecra Z50-C-140,1024.0
+824,462,Dell,479.0,WXGA,Intel,Pentium Quad Core,Ligero,1.6,Windows 10,4,Convertible,Inspiron 3168,1000.0
+464,987,Toshiba,1180.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Tecra A40-C-1DF,1024.0
+410,779,Dell,1181.27,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Notebook,Inspiron 5567,1024.0
+1302,403,Lenovo,1229.56,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,ThinkPad E580,1024.0
+129,892,HP,684.8,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Convertible,Pavilion x360,1000.0
+700,1140,Lenovo,1669.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,8,Convertible,ThinkPad Yoga,1024.0
+127,743,Lenovo,779.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,4,Notebook,V310-15IKB,2048.0
+1228,304,Asus,1468.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Ultrabook,ZenBook UX530UQ-PRO,2048.0
+203,195,Vero,260.0,FHD,Intel,Celeron Dual Core,Ligero,1.1,Windows 10,4,Notebook,K147,32.0
+262,334,HP,1335.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Elitebook 820,1024.0
+883,986,Dell,2800.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,32,Gaming,Alienware 17,3072.0
+976,793,Lenovo,2299.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Ultrabook,ThinkPad T470s,2048.0
+484,1207,Acer,2599.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Predator G9-793,3072.0
+148,440,Lenovo,2445.0,4K,Intel,Core i7,Medio,2.8,Windows 10,16,Workstation,Thinkpad T570,2048.0
+893,707,HP,689.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,4,Notebook,15-bs011nv,1000.0
+798,86,Acer,395.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,Aspire 3,2048.0
+219,354,Asus,375.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Convertible,VivoBook Flip,32.0
+969,218,Lenovo,549.0,FHD,Intel,Core i5,Medio,2.5,No OS,8,Notebook,IdeaPad 320-15IKBN,1024.0
+1046,467,Acer,544.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Aspire E5-576G,2048.0
+252,618,Dell,879.01,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Inspiron 7559,2048.0
+796,692,Lenovo,1499.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Convertible,Yoga 730,2048.0
+220,335,Dell,2639.0,4K,Intel,Core i7,Medio,2.8,Windows 10,32,Notebook,XPS 15,4096.0
+882,126,HP,1271.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,16,Notebook,Probook 470,2048.0
+1016,832,MSI,1199.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Gaming,GL62M 7RD,1024.0
+403,377,Acer,426.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,Aspire 3,512.0
+292,904,Lenovo,1799.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad T470s,1024.0
+571,1178,Lenovo,1499.0,FHD,Intel,Core i7,Medio,2.6,Windows 7,8,Ultrabook,ThinkPad T460,1024.0
+360,266,Lenovo,444.0,FHD,Intel,Core i3,Medio,2.0,No OS,4,Notebook,IdeaPad 320-15ISK,1024.0
+1026,215,Acer,779.0,FHD,Intel,Core i7,Medio,2.8,Linux,8,Notebook,Aspire 7,2048.0
+141,777,Samsung,1599.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Notebook 9,1024.0
+1065,177,Toshiba,489.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Satellite Pro,1000.0
+471,543,Dell,797.41,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 5570,1024.0
+1017,988,Asus,2049.9,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Rog Strix,3072.0
+600,383,Dell,309.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Windows 10,4,Notebook,Inspiron 3552,1000.0
+1011,1233,Acer,174.0,WXGA,Intel,Celeron Dual Core,Ligero,1.5,Chrome OS,2,Netbook,C740-C9QX,128.0
+643,390,Asus,1748.9,FHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Ultrabook,Zenbook Flip,2048.0
+553,1108,Dell,818.35,FHD,Intel,Core i5,Ligero,1.6,Windows 10,4,Ultrabook,Inspiron 5370,1024.0
+1086,310,Lenovo,359.99,WXGA,Intel,Pentium Quad Core,Medio,1.1,No OS,4,Notebook,IdeaPad 320-15IAP,2048.0
+1059,623,Dell,569.0,FHD,Intel,Core i5,Medio,2.5,Linux,4,Notebook,Vostro 3568,512.0
+288,489,HP,726.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,4,Notebook,ProBook 430,512.0
+230,1169,HP,297.0,WXGA,AMD,E-Series,Medio,1.8,Windows 10,4,Notebook,15-BA015wm,1000.0
+611,1028,HP,800.0,WXGA,Intel,Core i3,Ligero,2.4,Windows 10,4,Notebook,Probook 430,1000.0
+911,236,HP,330.0,WXGA,AMD,E-Series,Medio,1.5,Windows 10,4,Notebook,15-rb013nv,1000.0
+1212,607,HP,1219.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,EliteBook 850,1024.0
+1139,961,Lenovo,685.0,FHD,Intel,Core i7,Medio,2.7,No OS,8,Notebook,IdeaPad 310-15IKB,2048.0
+1226,238,Dell,859.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 5468,1024.0
+418,1036,HP,1149.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,Spectre 13-V100nv,1024.0
+162,805,Asus,299.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,R417NA-RS01,32.0
+49,436,Mediacom,299.0,FHD,Intel,Celeron Dual Core,Ligero,1.1,Windows 10,4,Convertible,FlexBook Edge,128.0
+980,217,HP,349.0,FHD,Intel,Core i3,Medio,2.0,No OS,4,Notebook,15-bs018nq,1000.0
+970,1073,MSI,1819.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,GT62VR 6RD,3072.0
+367,66,HP,690.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,250 G6,1024.0
+239,12,HP,344.99,FHD,Intel,Core i3,Medio,2.0,No OS,4,Notebook,250 G6,1000.0
+778,1167,Lenovo,2339.0,QHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Convertible,ThinkPad X1,1024.0
+17,1138,Dell,523.63,WXGA,Intel,Core i5,Medio,2.3,Linux,4,Notebook,Latitude E5570,1000.0
+784,1120,Dell,1413.1,WXGA,Intel,Core i5,Medio,2.3,Windows 7,8,Ultrabook,Latitude E5270,1024.0
+1121,160,Asus,1315.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Convertible,ZenBook Flip,1024.0
+422,21,Asus,191.9,WXGA,Intel,Atom x5,Ligero,1.44,Windows 10,2,Netbook,Vivobook E200HA,32.0
+1042,435,HP,1999.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,12,Gaming,Omen 17-w207nv,3072.0
+842,812,Dell,1749.0,4K,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,XPS 15,1024.0
+1260,829,Lenovo,489.9,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,V110-15ISK,1000.0
+460,809,HP,2064.9,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Workstation,ZBook 17,1024.0
+985,100,Asus,577.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,X541UV-DM1439T,1024.0
+614,1196,MSI,2153.37,FHD,Intel,Core i7,Medio,2.6,Windows 10,16,Gaming,GS60 Ghost,2560.0
+176,630,Fujitsu,799.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,LifeBook A557,1024.0
+167,107,Microsoft,1340.0,IPS,Intel,Core i5,Ligero,2.5,Windows 10 S,8,Ultrabook,Surface Laptop,1024.0
+78,575,Lenovo,344.0,FHD,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP,1000.0
+1201,516,Lenovo,1149.0,FHD,Intel,Core i7,Medio,2.8,No OS,8,Gaming,Legion Y520-15IKBN,3072.0
+676,252,Asus,2999.0,FHD,Intel,Core i7,Pesado,2.9,Windows 10,16,Gaming,Rog G701VIK-BA060T,1024.0
+1131,367,Asus,945.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Zenbook UX410UA-GV027T,1024.0
+1220,1236,Lenovo,1272.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,8,Gaming,IdeaPad Y700-15ISK,2560.0
+511,1314,HP,209.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,2,Netbook,Stream 11-Y000na,32.0
+1050,1270,Lenovo,569.0,FHD,Intel,Core i3,Medio,2.3,Windows 10,6,Notebook,IdeaPad 310-15ISK,512.0
+574,16,Apple,1518.55,IPS,Intel,Core i5,Ligero,2.3,macOS,8,Ultrabook,MacBook Pro,1024.0
+1108,1114,Asus,2299.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,G752VY-GC162T,2560.0
+331,993,Asus,1749.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Rog GL753VE-DS74,3072.0
+380,768,Acer,599.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Aspire 3,1024.0
+94,835,Asus,1358.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,ZenBook Flip,1024.0
+1091,831,Lenovo,2499.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Thinkpad X1,2048.0
+533,673,Toshiba,498.0,WXGA,Intel,Core i3,Medio,2.1,Windows 10,4,Notebook,Satellite Pro,512.0
+1093,47,Lenovo,369.0,WXGA,Intel,Core i3,Medio,2.0,No OS,4,Notebook,IdeaPad 320-15ISK,512.0
+31,88,HP,699.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Ultrabook,Pavilion 15-CK000nv,1024.0
+522,96,Asus,1049.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Zenbook UX430UA,1024.0
+470,788,Asus,581.9,FHD,Intel,Pentium Dual Core,Medio,1.1,Windows 10,8,Notebook,Vivobook Max,512.0
+950,240,Dell,899.0,FHD,Intel,Core i7,Medio,2.7,Linux,16,Notebook,Inspiron 5567,1024.0
+1165,967,Asus,1159.0,FHD,Intel,Core M M7,Ligero,1.2,Chrome OS,8,Convertible,Chromebook Flip,64.0
+1170,1151,HP,3949.4,FHD,Intel,Core i7,Pesado,2.6,Windows 7,8,Workstation,ZBook 17,1024.0
+735,458,Dell,1975.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,16,Workstation,Precision 3520,1024.0
+523,112,Lenovo,1480.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Thinkpad T470,1024.0
+681,1170,Lenovo,599.0,FHD,Intel,Core i5,Medio,2.3,No OS,8,Notebook,B51-80,2048.0
+694,754,Samsung,1649.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Ultrabook,Notebook 9,1024.0
+728,15,Apple,1262.4,IPS,Intel,Core M M3,Ligero,1.2,macOS,8,Ultrabook,"MacBook 12""",1024.0
+932,30,HP,896.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 470,2048.0
+873,340,Asus,999.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,FX553VD-FY647T,1024.0
+144,199,HP,914.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 470,2048.0
+378,614,Lenovo,564.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,6,Notebook,IdeaPad 310-15IKB,2048.0
+982,251,HP,559.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,15-bs015dx,2048.0
+341,533,Lenovo,799.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,4,Notebook,IdeaPad 320-15IKB,2048.0
+311,276,Asus,1549.0,FHD,AMD,Ryzen 1700,Pesado,3.0,Windows 10,16,Gaming,Rog Strix,3072.0
+953,852,HP,910.0,IPS,Intel,Core i5,Pesado,2.5,Windows 10,8,Notebook,ProBook 470,2048.0
+232,671,HP,539.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,6,Notebook,15-ay047nv,2048.0
+983,1006,Lenovo,270.62,WXGA,Intel,Celeron Dual Core,Medio,1.1,No OS,4,Notebook,V110-15IAP,512.0
+165,1090,Lenovo,659.0,IPS,Intel,Core i5,Pesado,2.3,Windows 10,8,Notebook,IdeaPad 300-17ISK,2048.0
+538,711,Lenovo,621.45,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,V310-15IKB,2048.0
+1096,201,HP,959.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Notebook,ProBook 430,2048.0
+449,271,Asus,1499.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Convertible,ZenBook Flip,2048.0
+1290,297,HP,489.0,IPS,Intel,Core i3,Pesado,2.0,Windows 10,8,Notebook,17-BS037cl,2048.0
+665,139,Lenovo,252.36,WXGA,Intel,Celeron Dual Core,Medio,1.1,No OS,4,Notebook,V110-15IAP,2048.0
+693,182,Lenovo,813.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,V310-15IKB,2560.0
+270,695,Dell,545.67,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Inspiron 3567,2048.0
+519,451,HP,1099.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,Omen 15-AX205na,2560.0
+710,975,Lenovo,1760.0,FHD,Intel,Core i5,Ligero,2.6,Windows 10,8,Ultrabook,ThinkPad X270,1024.0
+236,84,HP,860.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 440,1024.0
+1194,277,Dell,735.07,FHD,Intel,Core i7,Medio,1.8,Linux,8,Notebook,Inspiron 3576,1024.0
+1075,1055,Vero,210.8,WXGA,Intel,Atom X5,Ligero,1.44,Windows 10,2,Notebook,V142,32.0
+498,1144,HP,1129.0,FHD,Intel,Core i5,Pesado,2.3,Windows 10,8,Gaming,Omen -,2560.0
+135,513,Asus,1224.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,ZenBook UX510UX-CN211T,3072.0
+1241,307,Lenovo,649.0,IPS,Intel,Core i5,Pesado,2.5,Windows 10,6,Notebook,IdeaPad 320-17IKB,2048.0
+67,945,HP,1579.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,4,Ultrabook,EliteBook 820,1000.0
+964,562,Asus,224.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Linux,4,Notebook,A541NA-GO342,1000.0
+39,374,Dell,899.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Inspiron 5567,1024.0
+703,158,HP,619.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,6,Notebook,15-BS103nv,1024.0
+568,960,Dell,1472.2,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,Latitude 7280,1024.0
+563,730,Lenovo,1499.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad T470s,1024.0
+591,802,Lenovo,959.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Convertible,Yoga 510-15IKB,1024.0
+921,250,Dell,985.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Inspiron 5570,4608.0
+481,71,Asus,949.0,FHD,Intel,Core i7,Pesado,2.8,Linux,12,Gaming,FX753VE-GC093,2048.0
+1140,663,Toshiba,1064.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Tecra A50-D-11M,1000.0
+249,483,Dell,2408.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Workstation,Precision M5520,1024.0
+510,135,Acer,884.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Ultrabook,Swift 3,1024.0
+455,1250,Dell,469.01,WXGA,Intel,Core i3,Medio,2.4,Windows 10,8,Notebook,Inspiron 3567,2048.0
+767,977,Toshiba,1790.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Portege X20W-D-10V,2048.0
+225,1127,Lenovo,429.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,V110-15ISK,512.0
+963,773,Dell,849.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Latitude 3380,1000.0
+208,1288,Lenovo,638.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,4,Convertible,Yoga 500-14ISK,512.0
+150,58,Asus,586.19,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,VivoBook Max,1024.0
+850,530,HP,689.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,ProBook 440,512.0
+196,680,Lenovo,1034.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,Yoga 720-13IKB,1024.0
+1031,981,HP,685.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,ProBook 450,1000.0
+597,1179,MSI,1769.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,16,Gaming,GS40 Phantom,3072.0
+105,978,HP,846.5,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ProBook 450,2048.0
+646,415,Lenovo,409.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,IdeaPad 320-15ISK,1000.0
+843,887,Asus,398.99,WXGA,Intel,Pentium Quad Core,Medio,1.1,Linux,4,Notebook,X541NA-GO121,2048.0
+303,380,Dell,869.01,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Convertible,Inspiron 5379,1024.0
+1,1085,Dell,481.98,WXGA,Intel,Core i3,Medio,2.3,Windows 10,4,Notebook,Latitude 3570,1000.0
+815,1294,Dell,459.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,Inspiron 3567,2048.0
+444,421,Asus,928.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Convertible,ZenBook Flip,1024.0
+1149,505,Lenovo,949.0,FHD,Intel,Core i3,Ligero,2.4,Windows 10,8,Notebook,ThinkPad 13,1024.0
+678,262,HP,1059.0,FHD,Intel,Core i7,Pesado,1.8,Windows 10,16,Notebook,Envy 17-U275cl,2048.0
+271,1150,Lenovo,1099.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,16,Notebook,IdeaPad 500-15ISK,3072.0
+607,746,MSI,2094.48,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GS63VR 7RF,3072.0
+731,190,Dell,2397.0,4K,Intel,Core i7,Medio,2.8,Windows 10,16,Notebook,XPS 15,2048.0
+642,296,Asus,1187.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,FX753VD-GC071T,2048.0
+121,95,Dell,1195.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7577,1024.0
+499,140,Asus,938.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,FX753VD-GC086T,2560.0
+997,1301,Asus,720.32,WXGA,Intel,Core i7,Medio,2.5,Windows 10,4,Notebook,X556UJ-XO044T,1000.0
+1270,708,Dell,819.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 5577,2048.0
+1301,674,Dell,955.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Latitude 3580,2048.0
+344,1183,Dell,1498.0,4K,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567,2560.0
+748,647,Dell,2399.0,4K,Intel,Core i7,Medio,2.8,Windows 10,16,Notebook,XPS 15,4096.0
+786,466,HP,639.9,IPS,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,17-BS092ND,1024.0
+163,1208,Lenovo,819.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Gaming,Legion Y520-15IKBN,2048.0
+187,469,Asus,749.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Pro P2540UA-AB51,2048.0
+550,1275,Dell,490.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Vostro 3568,1000.0
+696,147,HP,369.0,WXGA,AMD,A6-Series,Medio,2.5,Windows 10,4,Notebook,255 G6,1024.0
+1294,1210,HP,485.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,250 G6,1000.0
+1113,67,Asus,1983.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Ultrabook,ZenBook Pro,2048.0
+1186,856,HP,615.0,WXGA,Intel,Celeron Dual Core,Ligero,1.1,Chrome OS,4,Convertible,Chromebook X360,32.0
+174,722,Dell,1426.66,FHD,Intel,Core i5,Medio,2.6,Windows 10,16,Notebook,Latitude 5580,2048.0
+1195,1160,HP,1629.0,FHD,Intel,Core i5,Ligero,2.4,Windows 10,8,Convertible,Spectre Pro,1024.0
+576,747,Acer,410.8,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Aspire ES1-572,1000.0
+57,544,HP,398.99,FHD,Intel,Pentium Quad Core,Medio,1.6,Windows 10,4,Notebook,250 G6,1024.0
+569,1029,Toshiba,1210.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Portege A30-C-1CZ,1024.0
+10,849,Asus,1799.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Rog GL702VM-GC017T,4096.0
+1038,281,Dell,1099.0,FHD,Intel,Core i7,Pesado,1.8,Linux,8,Notebook,Inspiron 5770,2560.0
+699,510,Lenovo,299.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-14IAP,1000.0
+458,1019,HP,1099.99,WXGA,Intel,Core i5,Ligero,2.4,Windows 10,4,Notebook,EliteBook 840,1024.0
+244,336,MSI,1199.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,GL72M 7REX,3072.0
+738,1300,HP,209.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,2,Netbook,Stream 11-Y000na,32.0
+37,1280,Dell,459.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,Inspiron 3567,2048.0
+732,992,HP,579.0,WXGA,Intel,Core i7,Medio,2.7,Windows 10,6,Notebook,15-bs053od,2048.0
+1173,144,Lenovo,1116.02,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ThinkPad E480,1024.0
+113,727,HP,1200.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,8,Notebook,ProBook 470,1024.0
+1146,433,Dell,1142.4,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Inspiron 5570,5120.0
+1100,1110,Acer,799.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Aspire F5-573G,3072.0
+407,470,Lenovo,799.0,FHD,Intel,Core i7,Medio,2.7,No OS,8,Notebook,IdeaPad 510s-14IKB,2048.0
+1256,1065,HP,979.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Noteb Pav,2048.0
+269,1255,Dell,737.0,WXGA,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,Vostro 3559,1000.0
+404,1281,Acer,289.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Linux,4,Notebook,Aspire ES1-531,1000.0
+897,492,Lenovo,1049.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ThinkPad E480,1024.0
+436,459,HP,1534.0,FHD,Intel,Core i7,Medio,2.9,Windows 10,8,Workstation,ProBook 650,2048.0
+717,292,Asus,977.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Ultrabook,VivoBook S15,1024.0
+595,1268,Dell,324.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Linux,4,Notebook,Inspiron 3552,1000.0
+276,1259,Asus,1280.0,FHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,ZenBook UX310UA-WB71,1024.0
+812,444,Google,2199.0,IPS,Intel,Core i7,Ligero,1.3,Chrome OS,16,Ultrabook,Pixelbook,2048.0
+497,346,Dell,274.9,WXGA,Intel,Celeron Dual Core,Medio,1.6,Linux,4,Notebook,Inspiron 3552,1000.0
+85,531,Dell,889.0,FHD,Intel,Core i5,Pesado,1.6,Linux,8,Notebook,Inspiron 5770,2560.0
+557,81,HP,977.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,ProBook 470,2560.0
+757,497,Lenovo,1011.99,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Thinkpad E570,1024.0
+564,1223,Dell,889.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Inspiron 5567,1024.0
+895,1149,Acer,616.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Aspire E5-576G,2048.0
+365,1039,HP,1559.0,WXGA,Intel,Core i5,Ligero,2.5,Windows 10,4,Ultrabook,Elitebook 820,1024.0
+769,1102,Lenovo,1199.0,FHD,Intel,Core i5,Medio,2.3,Windows 7,8,Notebook,ThinkPad T460,720.0
+324,97,Acer,847.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Convertible,Spin 5,1024.0
+844,821,Samsung,1499.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,Notebook 9,1024.0
+924,664,Dell,919.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Inspiron 5570,1024.0
+221,151,MSI,2029.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GE72MVR 7RG,3072.0
+348,211,Dell,1949.0,4K,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,XPS 13,1024.0
+229,1045,Acer,409.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,6,Notebook,Aspire 3,2048.0
+168,713,Dell,795.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 5568,1024.0
+74,4,Apple,2537.45,IPS,Intel,Core i7,Medio,2.7,macOS,16,Ultrabook,MacBook Pro,2048.0
+405,1119,Lenovo,1199.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,Legion Y520-15IKBN,2048.0
+760,299,Lenovo,739.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,V330-15IKB,1024.0
+941,183,HP,1499.0,4K,Intel,Core i5,Ligero,1.6,Windows 10,8,Convertible,Spectre x360,1024.0
+868,693,Dell,2813.75,FHD,Intel,Core i7,Pesado,2.9,Windows 10,16,Gaming,Alienware 15,3072.0
+65,818,Lenovo,609.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,IdeaPad 310-15IKB,2048.0
+314,1277,MSI,1229.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,8,Gaming,GE62 Apache,2560.0
+1034,699,Lenovo,699.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,IdeaPad 520s-14IKB,1024.0
+1114,171,Dell,1060.49,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 5577,2560.0
+1175,556,Lenovo,1729.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,ThinkPad T570,2048.0
+321,205,Lenovo,493.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,V110-15ISK,512.0
+467,1058,HP,1000.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,EliteBook 840,1000.0
+1022,316,Dell,2499.0,4K,Intel,Core i7,Ligero,1.8,Windows 10,16,Ultrabook,XPS 13,4096.0
+629,288,Lenovo,579.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,6,Notebook,Ideapad 320-15IKBN,1024.0
+433,769,Lenovo,1048.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,Legion Y520-15IKBN,2560.0
+1169,1317,Lenovo,1499.0,IPS,Intel,Core i7,Ligero,2.5,Windows 10,16,Convertible,Yoga 900-13ISK,2048.0
+741,1244,Dell,1477.0,IPS,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,XPS 13,1024.0
+131,92,Asus,699.0,FHD,AMD,FX 9830,Medio,3.0,Windows 10,8,Gaming,FX550IK-DM018T,2048.0
+1035,150,Asus,344.0,FHD,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,X541NA,2048.0
+1130,980,Dell,825.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Latitude 5580,1000.0
+787,1107,Asus,1599.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Rog GL702VM-GC354T,3072.0
+1092,551,Asus,349.0,WXGA,AMD,E-Series,Medio,1.8,Windows 10,4,Notebook,VivoBook X540YA-XX519T,1000.0
+1058,976,Acer,1009.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,12,Notebook,Aspire F5-573G-510L,2560.0
+1132,1305,HP,764.0,WXGA,Intel,Core i7,Medio,2.5,Windows 10,6,Notebook,15-AC110nv,2048.0
+335,1265,Asus,2325.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,16,Gaming,Rog GL502VS,3072.0
+847,326,Lenovo,589.0,IPS,Intel,Core i5,Pesado,2.5,Windows 10,4,Notebook,IdeaPad 320-17IKB,2048.0
+999,391,Lenovo,2282.0,QHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Thinkpad X1,2048.0
+1275,774,Acer,655.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,TravelMate P238-M,512.0
+1079,464,Microsoft,989.0,IPS,Intel,Core M M3,Ligero,2.2,Windows 10 S,4,Ultrabook,Surface Laptop,512.0
+3,891,HP,1700.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Convertible,EliteBook x360,1024.0
+107,944,Lenovo,309.0,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,IdeaPad 320-15IAP,2048.0
+119,602,Lenovo,459.0,WXGA,Intel,Core i3,Medio,2.3,Windows 10,8,Notebook,IdeaPad 110-15ISK,2048.0
+393,1180,HP,899.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Pavilion 15-cb003nv,2048.0
+1120,1311,Lenovo,899.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,8,Notebook,IdeaPad Y700-15ISK,2048.0
+58,185,Dell,1399.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13,1024.0
+594,275,Apple,1958.9,IPS,Intel,Core i5,Ligero,2.9,macOS,8,Ultrabook,MacBook Pro,2048.0
+864,519,Dell,836.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 5568,2048.0
+11,645,Lenovo,249.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,2,Notebook,IdeaPad 100S-14IBR,32.0
+274,1017,HP,779.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Probook 440,1000.0
+442,1080,Dell,1458.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,XPS 13,1024.0
+686,1218,Dell,499.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,Inspiron 5567,512.0
+1243,811,Dell,1499.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,XPS 13,1024.0
+406,488,Dell,586.6,WXGA,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,Vostro 3568,2048.0
+30,128,HP,259.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,No OS,4,Notebook,250 G6,1000.0
+1039,738,Acer,1935.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Predator 17,2560.0
+1144,658,Asus,2799.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,32,Gaming,ROG G701VI,2048.0
+429,888,Xiaomi,935.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,8,Ultrabook,Mi Notebook,1024.0
+320,181,MSI,2799.0,FHD,Intel,Core i7,Pesado,2.9,Windows 10,32,Gaming,GT80S 6QF-074US,4096.0
+664,295,Acer,199.0,WXGA,Intel,Celeron Dual Core,Medio,1.5,Chrome OS,2,Notebook,Chromebook C910-C2ST,64.0
+1008,85,Lenovo,399.0,FHD,AMD,A6-Series,Medio,2.5,Windows 10,4,Notebook,IdeaPad 320-15AST,512.0
+698,1182,HP,476.99,WXGA,Intel,Core i5,Medio,2.3,No OS,4,Notebook,250 G4,1000.0
+340,248,Dell,879.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 5577,1024.0
+1244,253,HP,675.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,4,Notebook,ProBook 430,1000.0
+916,791,Toshiba,1764.0,FHD,Intel,Core i7,Ligero,2.6,Windows 10,16,Ultrabook,Tecra Z40-C-161,2048.0
+387,311,HP,1975.0,FHD,Intel,Core i7,Ligero,2.8,Windows 10,16,Convertible,EliteBook x360,1024.0
+101,1308,Dell,459.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,Inspiron 3567,2048.0
+177,718,Lenovo,1249.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,Legion Y520-15IKBN,2560.0
+680,230,Acer,832.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Aspire E5-576G,1024.0
+414,572,Dell,1599.0,4K,Intel,Core i5,Ligero,1.6,Windows 10,8,Ultrabook,XPS 13,512.0
+1019,1014,Acer,1260.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Nitro 5,2560.0
+390,308,Lenovo,549.0,WXGA,Intel,Core i5,Medio,2.5,No OS,8,Notebook,IdeaPad 320-15IKBN,4096.0
+959,59,MSI,2449.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GS73VR 7RG,5120.0
+447,903,Samsung,1699.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Notebook 9,1024.0
+1090,491,Lenovo,565.0,WXGA,Intel,Core i3,Medio,2.0,Windows 10,4,Notebook,ThinkPad E570,512.0
+216,679,Lenovo,817.95,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,V310-15ISK,2560.0
+852,634,Lenovo,468.0,FHD,Intel,Core i5,Medio,2.5,No OS,4,Notebook,IdeaPad 320-15IKBN,512.0
+1141,1171,Dell,1199.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567,2048.0
+952,355,Dell,663.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Ultrabook,Inspiron 5570,2048.0
+1284,553,Lenovo,785.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ThinkPad E470,1000.0
+450,256,Asus,1799.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,ROG G752VSK-GC493T,3072.0
+691,1022,HP,1049.26,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ProBook 440,1024.0
+830,175,HP,699.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,6,Notebook,17-bs001nv,4096.0
+832,702,Toshiba,973.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Satellite Pro,1024.0
+683,941,HP,1165.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Probook 650,1024.0
+1183,1273,Asus,339.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,X541NA-GO020T,2048.0
+103,1047,HP,1195.0,FHD,Intel,Core i5,Medio,2.3,Windows 7,8,Notebook,Probook 640,1024.0
+123,192,Acer,989.0,FHD,Intel,Core i5,Ligero,1.2,Windows 10,8,Ultrabook,Swift 7,1024.0
+670,1024,Dell,949.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Gaming,Inspiron 7567,3072.0
+56,540,Mediacom,369.0,FHD,Intel,Celeron Quad Core,Ligero,1.1,Windows 10,4,Notebook,SmartBook Edge,128.0
+1119,998,Toshiba,915.0,WXGA,Intel,Core i5,Medio,2.3,Windows 10,4,Notebook,Tecra A40-C-1KF,1000.0
+749,499,Asus,1350.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Gaming,VivoBook Pro,2560.0
+604,381,HP,488.99,FHD,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,15-bw003nv,1024.0
+242,734,Dell,719.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 5570,2560.0
+284,1199,Lenovo,831.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,6,Ultrabook,IdeaPad 310-15IKB,1024.0
+988,783,HP,1244.0,WXGA,Intel,Core i5,Ligero,2.3,Windows 10,4,Ultrabook,EliteBook 820,1024.0
+275,1130,Dell,1379.0,FHD,Intel,Core i7,Ligero,2.4,Windows 10,8,Ultrabook,XPS 13,1024.0
+1012,916,Lenovo,1962.99,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad T570,2048.0
+774,474,Dell,759.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,8,Notebook,Inspiron 5570,4096.0
+588,91,Dell,1649.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Ultrabook,XPS 13,1024.0
+1289,526,Asus,1504.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,FX753VE-GC155T,3072.0
+790,360,Toshiba,1403.0,FHD,Intel,Core i7,Medio,2.5,Windows 10,16,Notebook,Tecra A50-C-21G,2048.0
+13,1011,Acer,380.0,WXGA,Intel,Pentium Quad Core,Medio,1.1,Windows 10,4,Notebook,Aspire ES1-533,1000.0
+840,427,Lenovo,1899.0,4K,Intel,Core i7,Medio,2.8,Windows 10,16,Convertible,Yoga 720-15IKB,2048.0
+995,364,Dell,557.37,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Inspiron 3567,4096.0
+647,490,Chuwi,248.9,FHD,Intel,Atom x5,Medio,1.44,Windows 10,4,Notebook,"Lapbook 15,6",64.0
+400,45,Dell,999.0,FHD,Intel,Core i5,Pesado,1.6,Windows 10,12,Convertible,Inspiron 7773,2048.0
+98,315,Lenovo,999.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,IdeaPad 720S-13IKB,1024.0
+1292,1251,MSI,1598.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,GE72VR Apache,3072.0
+202,758,HP,4389.0,FHD,Intel,Xeon E3-1535M,Pesado,2.9,Windows 7,16,Workstation,Zbook 17,1024.0
+198,1132,Razer,1029.0,4K,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,Blade Stealth,1024.0
+1025,545,HP,1799.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,12,Gaming,Omen 15-ce006nv,2048.0
+1232,452,Dell,1179.0,FHD,Intel,Core i5,Medio,2.8,Windows 10,8,Notebook,Latitude 5480,1024.0
+368,1252,Apple,959.0,WXGA,Intel,Core i5,Ligero,1.6,Mac OS X,4,Ultrabook,MacBook Air,256.0
+1107,947,Lenovo,1799.0,IPS,Intel,Core i7,Ligero,2.2,Windows 10,16,Convertible,Yoga 900-13ISK,4096.0
+1153,259,Acer,702.0,FHD,Intel,Core i3,Pesado,2.7,Windows 10,4,Notebook,Aspire 5,1024.0
+859,31,Chuwi,244.99,FHD,Intel,Atom x5,Medio,1.44,Windows 10,4,Notebook,"LapBook 15.6""",64.0
+190,1115,Dell,1135.15,WXGA,Intel,Core i3,Medio,2.3,Windows 7,4,Ultrabook,Latitude E5270,1000.0
+773,1224,HP,579.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,15-bs025nv,1024.0
+876,772,Asus,1129.0,IPS,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,Zenbook UX330UA-AH5Q,1024.0
+118,817,Dell,1679.0,4K,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7567,2048.0
+246,269,Dell,565.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Inspiron 3567,2048.0
+1069,631,HP,932.0,WXGA,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,EliteBook 850,1000.0
+1219,667,Dell,3147.37,4K,Intel,Core i7,Pesado,2.8,Windows 10,32,Gaming,Alienware 17,4096.0
+1030,971,HP,775.0,WXGA,Intel,Pentium Quad Core,Ligero,1.1,Windows 10,4,Convertible,ProBook x360,1024.0
+589,912,Dell,2013.1,IPS,Intel,Core i7,Ligero,1.3,Windows 10,8,Convertible,XPS 13,2048.0
+1106,996,Lenovo,549.0,FHD,AMD,A12-Series,Medio,3.6,Windows 10,6,Notebook,IdeaPad 320-15ABR,1024.0
+1283,615,Lenovo,1299.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,8,Convertible,Yoga 720-15IKB,1024.0
+1269,825,Razer,1799.0,4K,Intel,Core i7,Ligero,2.5,Windows 10,16,Ultrabook,Blade Stealth,2048.0
+1223,186,Lenovo,1849.0,4K,Intel,Core i7,Ligero,1.8,Windows 10,16,Convertible,Yoga 920-13IKB,2048.0
+161,33,HP,439.0,FHD,AMD,A6-Series,Pesado,2.5,Windows 10,4,Notebook,17-ak001nv,1000.0
+124,1193,Asus,769.0,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,UX410UA-GV097T,1024.0
+1198,1202,HP,799.0,FHD,Intel,Core i7,Medio,2.6,Windows 10,6,Notebook,Pavilion 15-BC000nv,2048.0
+204,54,HP,1103.0,FHD,Intel,Core i7,Ligero,1.8,Windows 10,8,Notebook,ProBook 430,2048.0
+18,114,Dell,1379.0,IPS,Intel,Core i7,Ligero,2.4,Windows 10,8,Ultrabook,XPS 13,1024.0
+84,93,Acer,689.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Aspire 5,2048.0
+874,394,Dell,2135.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Workstation,Precision 5520,1024.0
+222,260,Dell,949.0,FHD,Intel,Core i5,Ligero,1.6,Windows 10,8,Ultrabook,Vostro 5370,1024.0
+1158,564,Lenovo,949.0,IPS,Intel,Core i7,Pesado,2.7,Windows 10,6,Notebook,IdeaPad 320-17IKB,2560.0
+1145,1118,HP,2899.0,FHD,Intel,Core i7,Pesado,2.6,Windows 7,8,Workstation,ZBook 17,2048.0
+1272,210,Dell,439.0,WXGA,Intel,Core i3,Medio,2.4,Windows 10,6,Notebook,Inspiron 3567,2048.0
+1207,384,Asus,286.0,WXGA,Intel,Celeron Dual Core,Medio,1.1,Windows 10,4,Notebook,VivoBook E403NA,32.0
+430,726,Mediacom,265.0,IPS,Intel,Atom Z8350,Ligero,1.92,Windows 10,4,Notebook,Smartbook 142,64.0
+1291,1228,Apple,1279.0,IPS,Intel,Core M M1,Ligero,1.2,Mac OS X,8,Ultrabook,"MacBook 12""",512.0
+491,594,Lenovo,1673.0,FHD,Intel,Core i7,Ligero,2.6,Windows 10,12,Ultrabook,Thinkpad T460s,1024.0
+623,816,HP,629.0,WXGA,AMD,A12-Series,Medio,2.5,Windows 10,8,Notebook,15-ba043na,4096.0
+147,448,Dell,749.0,FHD,Intel,Core i5,Medio,1.6,Windows 10,4,Notebook,Inspiron 5570,1024.0
+33,884,Lenovo,735.0,FHD,Intel,Core i3,Ligero,2.4,Windows 10,4,Notebook,Thinkpad 13,720.0
+943,995,Toshiba,1195.0,FHD,Intel,Core i5,Ligero,2.3,Windows 7,4,Notebook,Portege Z30-C-1CV,512.0
+1253,801,Lenovo,1970.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Convertible,ThinkPad Yoga,2048.0
+1097,952,Dell,1639.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,Latitude 7480,1024.0
+866,224,Dell,1279.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,16,Convertible,Inspiron 5379,2048.0
+558,1189,HP,1159.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,16,Notebook,ProBook 450,2048.0
+1085,51,Lenovo,319.0,IPS,Intel,Atom x5,Ligero,1.44,Android,4,Convertible,Yoga Book,64.0
+1041,1186,HP,249.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Windows 10,2,Notebook,Stream 14-AX000nv,32.0
+1277,571,Asus,839.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,FX553VD-DM627T,2560.0
+1082,584,Lenovo,2663.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,32,Gaming,IdeaPad Y910-17ISK,3072.0
+73,839,Razer,5499.0,4K,Intel,Core i7,Pesado,2.9,Windows 10,32,Gaming,Blade Pro,2048.0
+199,1075,Asus,998.0,FHD,Intel,Core i7,Pesado,2.6,No OS,16,Gaming,Rog G752VL-GC088D,2048.0
+1159,1112,MSI,1599.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,8,Gaming,GS70 Stealth,1024.0
+1208,946,HP,288.9,WXGA,Intel,Celeron Dual Core,Medio,1.6,No OS,4,Notebook,250 G6,2048.0
+579,518,Acer,639.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,4,Notebook,Aspire A515-51G,1000.0
+302,515,HP,1323.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,8,Ultrabook,Envy 13-AB002nv,2048.0
+818,1043,HP,1080.0,FHD,Intel,Core i5,Pesado,2.5,Windows 10,8,Notebook,Probook 470,1024.0
+1006,1309,Acer,289.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Linux,4,Notebook,Aspire ES1-531,1000.0
+448,782,Dell,1099.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,8,Gaming,Inspiron 7567,2048.0
+919,111,MSI,1299.0,FHD,Intel,Core i7,Medio,2.8,Windows 10,16,Gaming,GP62M 7REX,3072.0
+35,49,Dell,639.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Inspiron 3567,1024.0
+1045,1099,Dell,750.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Vostro 3568,1024.0
+596,897,Dell,455.7,WXGA,Intel,Core i3,Medio,2.0,Linux,4,Notebook,Vostro 3568,2048.0
+1218,1198,Lenovo,1637.0,QHD,Intel,Core i5,Ligero,2.3,Windows 10,8,Convertible,ThinkPad X1,1024.0
+214,573,Dell,959.0,WXGA,Intel,Core i5,Medio,2.6,Windows 10,4,Notebook,Latitude 5580,1000.0
+469,203,HP,1045.0,FHD,Intel,Core i7,Medio,1.8,Windows 10,8,Notebook,Probook 470,1024.0
+933,889,Dell,912.5,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Vostro 5568,2560.0
+1249,582,Mediacom,249.0,FHD,Intel,Atom x5,Ligero,1.44,Windows 10,4,Notebook,SmartBook 141,128.0
+803,17,Dell,745.0,FHD,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Inspiron 3567,1024.0
+372,1295,Acer,289.0,WXGA,Intel,Celeron Dual Core,Medio,1.6,Linux,4,Notebook,Aspire ES1-531,1000.0
+1287,539,Asus,1299.0,4K,Intel,Core i7,Medio,2.7,Windows 10,8,Notebook,Zenbook UX510UW-FI095T,3072.0
+506,227,Toshiba,1363.0,FHD,Intel,Core i7,Ligero,2.5,Windows 10,8,Ultrabook,Portege Z30-C-16L,1024.0
+775,898,Asus,1369.9,FHD,Intel,Core i5,Medio,2.5,Windows 10,12,Gaming,Rog GL753VD-GC082T,2560.0
+281,1026,HP,1590.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,4,Notebook,Elitebook 840,1024.0
+234,639,Dell,1479.0,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7567,3072.0
+782,1272,Dell,443.99,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,4,Notebook,Inspiron 3552,1000.0
+307,879,Acer,902.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,TMX349-G2-M-50FS,1024.0
+106,676,Toshiba,1258.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,Tecra Z50-D-10E,1024.0
+504,755,HP,539.0,FHD,Intel,Core i3,Medio,2.0,Windows 10,8,Notebook,250 G6,1024.0
+1172,1040,HP,1189.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ProBook 650,1000.0
+1276,344,Asus,274.99,WXGA,Intel,Celeron Dual Core,Medio,1.1,Linux,4,Notebook,X541NA,2048.0
+228,1287,Asus,720.32,WXGA,Intel,Core i7,Medio,2.5,Windows 10,4,Notebook,X556UJ-XO044T,1000.0
+424,890,HP,839.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ProBook 450,1024.0
+740,1067,HP,979.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ProBook 450,1024.0
+415,552,HP,705.5,FHD,Intel,Core i3,Medio,2.4,Windows 10,4,Notebook,ProBook 450,512.0
+116,955,Asus,530.0,IPS,Intel,Pentium Quad Core,Pesado,1.6,Windows 10,4,Notebook,X751SV-TY001T,2048.0
+1009,869,Dell,649.0,FHD,Intel,Core i5,Medio,2.3,Windows 10,8,Notebook,Inspiron 5368,2048.0
+79,776,Dell,1099.0,4K,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Inspiron 7559,2560.0
+1234,1173,HP,478.89,FHD,AMD,A6-Series,Medio,2.5,Windows 10,4,Notebook,15-bw002nv,1024.0
+272,833,Lenovo,1875.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Ultrabook,ThinkPad X1,256.0
+247,1124,Asus,1339.0,FHD,Intel,Core i7,Pesado,2.6,Windows 10,16,Gaming,Rog GL552VW-CN470T,2560.0
+1178,537,Dell,3012.77,FHD,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Alienware 17,2560.0
+409,1212,Dell,1199.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Convertible,Inspiron 7378,1024.0
+46,1096,Lenovo,3240.0,FHD,Intel,Core i7,Pesado,2.7,Windows 10,32,Gaming,IdeaPad Y900-17ISK,5120.0
+52,710,Lenovo,429.0,WXGA,AMD,A12-Series,Medio,3.6,Windows 10,8,Notebook,IdeaPad 320-15ABR,2048.0
+855,512,Lenovo,949.0,FHD,Intel,Core i5,Ligero,2.5,Windows 10,8,Notebook,ThinkPad 13,1024.0
+1273,1278,Lenovo,833.01,FHD,Intel,Core i5,Medio,2.3,Windows 10,4,Convertible,Yoga 500-14IBD,512.0
+1095,257,Asus,469.0,WXGA,AMD,A9-Series,Medio,3.0,Windows 10,4,Notebook,X505BP-BR019T,2048.0
+254,1264,Dell,875.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,Latitude 5480,1000.0
+431,387,Lenovo,403.5,FHD,Intel,Core i3,Medio,2.0,No OS,4,Notebook,V310-15ISK,512.0
+19,654,Acer,919.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Ultrabook,Swift 3,1024.0
+213,704,Lenovo,1749.0,FHD,Intel,Core i7,Ligero,2.7,Windows 10,16,Convertible,Yoga 910-13IKB,2048.0
+339,460,Lenovo,1345.0,FHD,Intel,Core i5,Medio,2.5,Windows 10,8,Notebook,ThinkPad T470,1024.0
+223,578,HP,389.0,WXGA,Intel,Pentium Quad Core,Medio,1.6,Windows 10,8,Notebook,14-am079na,4096.0
+456,1084,Apple,1300.0,IPS,Intel,Core M M1,Ligero,1.1,Mac OS X,8,Ultrabook,"MacBook 12""",256.0
+986,280,Dell,713.07,WXGA,Intel,Core i7,Medio,2.7,Windows 10,12,Notebook,Inspiron 5567,2048.0
+253,1191,Lenovo,398.0,WXGA,Intel,Core i5,Medio,2.3,No OS,4,Notebook,V110-15ISK,1000.0
+4,1284,HP,549.99,FHD,AMD,A9-Series,Medio,2.9,Windows 10,6,Notebook,Pavilion 15-AW003nv,3072.0
+1134,709,Lenovo,399.0,FHD,AMD,A9-Series,Medio,2.9,Windows 10,4,Notebook,IdeaPad 320-15AST,1024.0
+1137,595,Lenovo,609.0,WXGA,Intel,Core i7,Medio,1.8,Windows 10,12,Notebook,Ideapad 320-15IKBR,2048.0
+137,196,Xiaomi,999.9,FHD,Intel,Core i5,Ligero,2.5,No OS,8,Ultrabook,Mi Notebook,1024.0
+1187,1094,HP,940.0,FHD,Intel,Core i5,Medio,2.3,Windows 7,4,Notebook,Probook 650,1000.0
+12,482,Dell,740.0,WXGA,Intel,Core i3,Medio,2.3,Windows 10,8,Notebook,Latitude E5470,512.0
+478,176,Lenovo,309.0,WXGA,AMD,A6-Series,Medio,2.9,No OS,4,Notebook,IdeaPad 320-15AST,1000.0
+207,1225,Lenovo,299.0,WXGA,AMD,E-Series,Medio,2.2,Windows 10,4,Notebook,IdeaPad 320-15AST,1000.0
+793,576,Lenovo,990.0,WXGA,Intel,Core i5,Medio,2.5,Windows 10,4,Notebook,ThinkPad L470,1000.0
+1133,204,Dell,1845.0,4K,Intel,Core i7,Pesado,2.8,Windows 10,16,Gaming,Inspiron 7577,4096.0
+266,188,Xiaomi,1199.0,FHD,Intel,Core i5,Medio,1.6,No OS,8,Notebook,Mi Notebook,1024.0
+1052,752,Lenovo,3299.0,4K,Intel,Core i7,Medio,2.8,Windows 10,16,Workstation,Thinkpad P51s,4096.0
+241,1291,HP,764.0,WXGA,Intel,Core i7,Medio,2.5,Windows 10,6,Notebook,15-AC110nv,2048.0
+89,973,Acer,389.0,WXGA,Intel,Celeron Dual Core,Ligero,1.6,Chrome OS,4,Convertible,Chromebook C738T-C2EJ,32.0
+716,1018,Toshiba,1195.0,FHD,Intel,Core i5,Ligero,2.3,Windows 10,4,Notebook,Portege Z30-C-16H,512.0
+517,1071,Acer,449.0,WXGA,AMD,A8-Series,Medio,2.2,Windows 10,8,Notebook,Aspire ES1-523,2048.0
+891,965,Dell,1775.0,FHD,Intel,Core i7,Ligero,2.8,Windows 10,8,Ultrabook,Latitude 7480,1024.0
+1179,1313,Dell,805.99,WXGA,Intel,Core i7,Medio,2.7,Linux,8,Notebook,Inspiron 3567,2048.0
